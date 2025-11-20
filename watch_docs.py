@@ -51,6 +51,21 @@ class ObsidianFileHandler(FileSystemEventHandler):
             # Copy files from Obsidian
             subprocess.run(['xcopy', obsidian_path, docs_path, '/E', '/I', '/Y'], shell=True)
             
+            # Touch a file in the docs folder to trigger mkdocs live reload
+            index_file = os.path.join(docs_path, "index.md")
+            if os.path.exists(index_file):
+                current_time = time.time()
+                os.utime(index_file, (current_time, current_time))
+            else:
+                # If index.md doesn't exist, create a temporary file and delete it
+                temp_file = os.path.join(docs_path, ".mkdocs_reload")
+                with open(temp_file, 'w') as f:
+                    f.write("reload trigger")
+                os.remove(temp_file)
+            
+            # Wait a moment to ensure mkdocs detects the change
+            time.sleep(0.5)
+            
             print("Documentation rebuilt successfully!")
         except Exception as e:
             print(f"Error rebuilding documentation: {e}")
