@@ -9,7 +9,7 @@ Merci de votre intérêt pour notre application. Veuillez noter que la version q
     
 - **Fonctionnalités incomplètes :** Certaines fonctionnalités peuvent être manquantes, incomplètes ou ne pas fonctionner comme prévu. Celles-ci sont susceptibles d'être modifiées ou supprimées dans les versions futures.
     
-- **Perte de données possible :** En raison de son statut expérimental, l'utilisation de cette application pourrait entraîner une perte de données. Nous vous recommandons vivement de **ne pas l'utiliser avec des données critiques ou importantes** et de sauvegarder régulièrement votre travail.
+- **Incompatibilités possibles avec des versions futures :** En raison de son statut expérimental, l'utilisation de cette application pourrait ne pas être complètement compatible avec les prochaines versions du logiciel IGOOR. 
 
 
 **Décharge de responsabilité :**

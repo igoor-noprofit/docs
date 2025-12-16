@@ -1,4 +1,4 @@
-![]( https://igoor.org/wp-content/uploads/2024/08/logo_fb.png)
+![logo IGOOR]( https://igoor.org/wp-content/uploads/2024/08/logo_fb.png)
 
 **IGOOR** est une application  conversationnelle **open-source et gratuite,** pilotable aussi par commande oculaire et conçue pour fournir, aux personnes atteintes de maladies qui impactent la communication un moyen de communication le plus fluide et naturel possible.
 
@@ -13,13 +13,13 @@ L'application est actuellement en test à l'[Hopital Marin d'Hendaye](https://ww
 ## Qu'est-ce IGOOR 
 
 - Un logiciel **experimental** de communication assistée par l'I.A.
-- Une application conversationnelle dédiée à la communication en présence le plus possible en temps réel
+- **Une application conversationnelle dédiée à la communication en présence** le plus possible en temps réel
 
 > [Pour en savoir plus sur la philosophie à la base du logiciel IGOOR](https://igoor.org/igoor/){target=blank}
 
 ## Ce qu'IGOOR n'est pas
 
-- Un logiciel de suivi oculaire ou un dispositif de suivi oculaire (mais IGOOR peut fonctionner avec des dispositifs de suivi oculaire)
+- Un logiciel de suivi oculaire ou un dispositif de suivi oculaire (mais IGOOR peut fonctionner avec des dispositifs de suivi oculaire, si vous les utilisez)
 - Un système intégré pour accéder à vos réseaux sociaux, messagerie téléphonique etc. 
 	- IGOOR est cependant compatible avec des logiciels comme Grid3
 
