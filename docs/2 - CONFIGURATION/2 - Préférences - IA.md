@@ -20,8 +20,6 @@ Groq vous permet de tester gratuitement ses fonctionnalités avec un compte dév
 ![Groq account login](../assets/groq_account_login.png)
 Inscrivez-vous à l'aide de votre adresse email (si vous avez un compte Google ou d'un des autres fournisseurs indiqués, vous pouvez vous authentifier à travers eux).
 
-**IMPORTANT: Si vous utilisez régulièrement IGOOR vous allez rapidement rencontrer des limitations (et donc les prédictions peuvent ne pas fonctionner pendant un certain temps). Pensez à renseigner vos informations de carte bancaire sur Groq pour avoir un compte pro. Vous allez pouvoir ensuite suivre votre consommation sur la [dashboard de Groq](https://console.groq.com/dashboard/usage)**
-
 Une fois authentifié, cliquez sur le bouton *Create API Key* :
 
 ![Groq api key creation](../assets/groq_key.png)
@@ -41,3 +39,7 @@ Collez la clé dans le champ Clé API et cliquez sur le bouton **Enregistrer les
 ![Coller la clé](../assets/paste_api_key.png)
 
 La fenêtre des paramètres se ferme automatiquement. 
+
+**IMPORTANT: Si vous utilisez régulièrement IGOOR vous allez rapidement rencontrer des limitations (et donc les prédictions peuvent ne pas fonctionner pendant un certain temps). Pensez à renseigner vos informations de carte bancaire sur Groq pour avoir un compte pro.**
+
+[Suivre votre consommation sur la dashboard Groq :dollar:](https://console.groq.com/dashboard/usage){ .md-button target=_blank}

@@ -22,8 +22,8 @@ D'autres fournisseurs pourront etre supportés à l'avenir.
 
 ### Conseils
 
-- Si l'utilisateur d'IGOOR est affecté par la SLA, l'association ARSLA dispose de licences gratuites pour Elevenlabs. [Contacter l'association ARSLA](https://www.arsla.org/)
-- Si vous avez la possiblité de [[Cloner la voix de l'utilisateur d'IGOOR]], nous vous conseillons ???
+- **Si l'utilisateur d'IGOOR est affecté par la SLA, l'association ARSLA dispose de licences gratuites pour Elevenlabs**. [Contacter l'association ARSLA](https://www.arsla.org/)
+- Si vous avez la possibilité de [[2 - Cloner la voix de l'utilisateur d'IGOOR]], nous vous conseillons
 - Seulement si vous n'avez pas la possibilité de cloner la voix de l'utilisateur, ou que vous souhaitez une voix gratuite, choisissez le TTSDEFAULT. **La voix originale de la personne (ou une voix plus expressive des voix Windows) contribuent à garder un lien émotionnel avec l'utilisateur.**
 
 ## Utiliser la voix de synthèse fournie par Windows
@@ -44,11 +44,12 @@ Choisissez la voix que vous souhaitez dans le menu déroulant et enregistrez les
 **IMPORTANT : Nous vous conseillons de garder activée la voix de synthèse Windows comme fallback (en cas de problèmes réseau).**
 Pour ce faire, dans les paramètres de l'extension ci-dessus, gardez la case cochée. Ensuite, activez l'extension correspondante à votre abonnement (Elevenlabs ou Speechify).
 
-Vous allez devoir ensuite renseigner votre clé API pour l'accès au service. Par exemple pour Speechify :
+Vous allez devoir ensuite **renseigner votre clé API** pour l'accès au service. Par exemple pour Speechify :
 
 ![[Pasted image 20251118163635.png]]
 
-Ensuite, en fonction de votre abonnement, vous allez pouvoir choisir une voix spécifique (votre voix clonée ou une autre voix) et en personnaliser quelques paramètres :
+Une fois la clé API renseigné, la liste des voix disponibles se remplira.
+Ensuite, en fonction de votre abonnement, vous allez pouvoir choisir une voix spécifique (votre voix clonée, ou une autre voix) et en personnaliser quelques paramètres :
 
 ![[Pasted image 20251118163754.png]]
 

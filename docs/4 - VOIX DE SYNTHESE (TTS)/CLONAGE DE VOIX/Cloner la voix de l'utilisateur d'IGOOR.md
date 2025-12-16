@@ -1,2 +1,0 @@
-- A partir de la voix de l'utilisateur
-- A partir d'échantillons de la voix de l'utilisateur
