@@ -1,4 +1,5 @@
 site_name: IGOOR - Documentation officielle en français
+site_url: https://igoor-noprofit.github.io/docs/
 
 docs_dir: docs
 
@@ -6,7 +7,7 @@ theme:
   name: material
   language: fr
 
-markdown_extensions:
+markdown_extensions:how
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
