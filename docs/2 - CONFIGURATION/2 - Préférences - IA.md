@@ -30,9 +30,9 @@ Donnez un nom à votre clé dans la fenetre qui s'ouvre, par ex. "igoorclé" :
 
 Dans la fenetre qui s'ouvre, copiez votre clé en cliquant sur le bouton *Copy* :
 
-![Coller la clé](../assets/copy_api_key.png)
+![Coller la clé](copy_api_key_3.png)
 
-Revenez dans le logiciel IGOOR, rentres dans les paramètres (bouton en haut à droite) et cliquez sur l'onglet IA. 
+Revenez dans le logiciel IGOOR, rentrez dans les paramètres (bouton en haut à droite) et cliquez sur l'onglet IA. 
 
 Collez la clé dans le champ Clé API et cliquez sur le bouton **Enregistrer les paramètres principaux** :
 
