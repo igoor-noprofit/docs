@@ -6,7 +6,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStg6Yf9MDzGR0UqlEYnPPQQTlqba8JUcHAFg&s)" width="300" alt="logo ARSLA">
 
-L'application est actuellement en test à l'[Hopital Marin d'Hendaye](https://www.aphp.fr/hopitaux/hendaye){target=blank} avec des personnes qui souffrent de pathologies telles que la SLA et la SLP. IGOOR prend déjà en compte les premiers retours de ses utilisateurs.
+L'application est actuellement en test, notamment dans un hôpital en France, avec des personnes qui souffrent de pathologies telles que la SLA et la SLP. IGOOR prend déjà en compte les premiers retours de ses utilisateurs.
 
 **Si ce logiciel est important pour vous, vous pouvez faire un don à l'association IGOOR pour soutenir son développement continu ici :**
 
@@ -28,7 +28,7 @@ L'application est actuellement en test à l'[Hopital Marin d'Hendaye](https://ww
 
 ## License, Avis de Développement et Confidentialité
 
-**Ce projet est actuellement en développement privé. Bien que la première version publique du logiciel sera disponible en tant que logiciel libre (sous licence GPLv3), la base de code actuelle  est encore soumise à une stricte confidentialité.**
+**Ce projet est actuellement en développement. Bien que la v1 du logiciel sera disponible en tant que logiciel libre (sous licence GPLv3), la base de code actuelle est encore soumise à une stricte confidentialité.**
 
 **IGOOR** est développé par Carlo Giordano, d’après un concept d’Igor Novitzki.  
 L'UX/UI originale est de Piero Ciarfaglia (Zenoid).
