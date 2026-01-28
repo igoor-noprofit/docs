@@ -33,3 +33,12 @@ plugins:
   - roamlinks
 
 nav:
+  - Home: index.md
+  - '1 - INSTALLATION': '1 - INSTALLATION/index.md'
+  - '2 - CONFIGURATION': '2 - CONFIGURATION/index.md'
+  - '3 - USING IGOOR': '3 - USING IGOOR/index.md'
+  - '4 - VOICE SYNTHESIS': '4 - VOICE SYNTHESIS/index.md'
+  - '5 - VOICE RECOGNITION': '5 - VOICE RECOGNITION/index.md'
+  - '6 - MEMORY': '6 - MEMORY/index.md'
+  - '7 - INTEGRATION WITH DEVICES': '7 - INTEGRATION WITH DEVICES/index.md'
+  - '9 - FAQ AND RESOLUTION OF COMMON PROBLEMS': '9 - FAQ AND RESOLUTION OF COMMON PROBLEMS/index.md'
