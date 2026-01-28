@@ -1,0 +1,35 @@
+site_name: IGOOR - Documentation Officielle
+docs_dir: ../../docs/fr
+site_dir: ../../site/fr
+
+theme:
+  name: material
+  custom_dir: ../../overrides/
+  language: fr
+  logo: assets/images/logo.svg
+  favicon: assets/images/favicon.ico
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Français
+      link: /fr/
+      lang: fr
+
+plugins:
+  - search:
+      lang: fr
+  - roamlinks
+
+nav:
