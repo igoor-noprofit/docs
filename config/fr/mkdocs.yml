@@ -2,6 +2,7 @@ site_name: IGOOR - Documentation Officielle
 site_url: https://igoor-noprofit.github.io/docs/fr/
 docs_dir: ../../docs/fr
 site_dir: ../../site/fr
+use_directory_urls: true
 
 theme:
   name: material
