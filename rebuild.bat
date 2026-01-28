@@ -8,6 +8,18 @@ taskkill /F /IM python.exe /FI "WINDOWTITLE eq *mkdocs*" 2>nul
 taskkill /F /FI "IMAGENAME eq python.exe" /FI "WINDOWTITLE eq *watch_docs*" 2>nul
 timeout /t 2 /nobreak >nul
 
+REM Generate navigation based on current docs structure
+echo ========================================
+echo Generating navigation...
+echo ========================================
+python generate_nav.py
+if errorlevel 1 (
+    echo ERROR: Failed to generate navigation
+    pause
+    exit /b 1
+)
+echo.
+
 rmdir /s /q site
 
 REM Build English documentation
