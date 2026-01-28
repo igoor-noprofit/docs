@@ -30,8 +30,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build MkDocs site
-        run: mkdocs build
+      - name: Build English documentation
+        run: mkdocs build -f config/en/mkdocs.yml
+
+      - name: Build French documentation
+        run: mkdocs build -f config/fr/mkdocs.yml
 
       - name: Create .nojekyll file
         run: touch ./site/.nojekyll
