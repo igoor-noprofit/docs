@@ -12,18 +12,6 @@ if exist C:\TMP\IGOOR\docs\docs rmdir /s /q C:\TMP\IGOOR\docs\docs
 mkdir C:\TMP\IGOOR\docs\docs
 xcopy C:\TMP\IGOOR\OBSIDIAN\IGOOR_VAULT\DOCS C:\TMP\IGOOR\docs\docs /E /I /Y
 
-REM Generate navigation based on folder structure
-echo ========================================
-echo Generating navigation...
-echo ========================================
-python generate_nav.py
-if errorlevel 1 (
-    echo ERROR: Failed to generate navigation
-    pause
-    exit /b 1
-)
-echo.
-
 cd C:\TMP\IGOOR\docs
 call venv\Scripts\activate
 
