@@ -36,11 +36,34 @@ plugins:
 
 nav:
   - Accueil: index.md
-  - '1 - INSTALLATION': '1 - INSTALLATION/index.md'
-  - '2 - CONFIGURATION': '2 - CONFIGURATION/index.md'
-  - '3 - UTILISER IGOOR': '3 - UTILISER IGOOR/index.md'
-  - '4 - VOIX DE SYNTHESE': '4 - VOIX DE SYNTHESE/index.md'
-  - '5 - RECONNAISSANCE VOCALE': '5 - RECONNAISSANCE VOCALE/index.md'
-  - '6 - MEMOIRE': '6 - MEMOIRE/index.md'
-  - '7 - INTEGRATION AVEC DISPOSITIFS': '7 - INTEGRATION AVEC DISPOSITIFS/index.md'
-  - '9 - FAQ ET RESOLUTION DES PROBLEMES COMMUNS': '9 - FAQ ET RESOLUTION DES PROBLEMES COMMUNS/index.md'
+  - '1 - INSTALLATION':
+    - index: '1 - INSTALLATION/index.md'
+    - '1 - Pré-requis': '1 - INSTALLATION/1 - Pré-requis.md'
+    - '2 - Télécharger IGOOR': '1 - INSTALLATION/2 - Télécharger IGOOR.md'
+    - '3 - Installer IGOOR': '1 - INSTALLATION/3 - Installer IGOOR.md'
+  - '2 - CONFIGURATION':
+    - index: '2 - CONFIGURATION/index.md'
+    - '1 - Configuration minimale': '2 - CONFIGURATION/1 - Configuration minimale.md'
+    - '2 - Préférences - IA': '2 - CONFIGURATION/2 - Préférences - IA.md'
+  - '3 - UTILISER IGOOR':
+    - index: '3 - UTILISER IGOOR/index.md'
+    - '1 - Quatre outils d aide à la communication': '3 - UTILISER IGOOR/1 - Quatre outils d aide à la communication.md'
+    - '2 - Besoins quotidiens': '3 - UTILISER IGOOR/2 - Besoins quotidiens.md'
+    - '3 - Dialogue avec l interlocuteur': '3 - UTILISER IGOOR/3 - Dialogue avec l interlocuteur.md'
+    - '4 - Saisie automatique': '3 - UTILISER IGOOR/4 - Saisie automatique.md'
+    - '5 - Boutons rapides': '3 - UTILISER IGOOR/5 - Boutons rapides.md'
+  - '4 - VOIX DE SYNTHESE':
+    - index: '4 - VOIX DE SYNTHESE/index.md'
+    - '1 - Choisir votre système de synthèse vocale TTS': '4 - VOIX DE SYNTHESE/1 - Choisir votre système de synthèse vocale TTS.md'
+    - '2 - Cloner la voix de l utilisateur d IGOOR': '4 - VOIX DE SYNTHESE/2 - Cloner la voix de l utilisateur d IGOOR.md'
+  - '5 - RECONNAISSANCE VOCALE':
+    - index: '5 - RECONNAISSANCE VOCALE/index.md'
+    - 'ASR locale ou dans le cloud': '5 - RECONNAISSANCE VOCALE/ASR locale ou dans le cloud.md'
+  - '6 - MEMOIRE':
+    - index: '6 - MEMOIRE/index.md'
+    - '1 - Types de mémoire': '6 - MEMOIRE/1 - Types de mémoire.md'
+    - '2 - Mémoire extraite depuis vos documents': '6 - MEMOIRE/2 - Mémoire extraite depuis vos documents.md'
+    - '3 - Mémoire de long terme': '6 - MEMOIRE/3 - Mémoire de long terme.md'
+    - '4 - Mémoire de court terme': '6 - MEMOIRE/4 - Mémoire de court terme.md'
+  - '7 - INTEGRATION AVEC DISPOSITIFS': '7 - INTEGRATION AVEC DISPOSITIFS/'
+  - '9 - FAQ ET RESOLUTION DES PROBLEMES COMMUNS': '9 - FAQ ET RESOLUTION DES PROBLEMES COMMUNS/'
