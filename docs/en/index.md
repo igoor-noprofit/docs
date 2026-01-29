@@ -1,16 +1,16 @@
-<img src="https://igoor.org/wp-content/uploads/2024/08/logo_fb.png" width="500">
+<img src="https://igoor.org/wp-content/uploads/2024/08/logo_fb.png" width="450">
 
 **IGOOR** is a conversational application that is **open-source and free**, and can also be controlled by eye-tracking, designed to provide people with diseases that affect communication a means of communication as smooth and natural as possible.
 
 **IGOOR** is developed by the no-profit [IGOOR association (1901 law)](https://igoor.org){target=blank}, in partnership with the [ARSLA association](https://arsla.org){target=blank}. The original idea for this application comes from Igor Novitzki, founder of the association.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStg6Yf9MDzGR0UqlEYnPPQQTlqba8JUcHAFg&s)" width="300" alt="logo ARSLA">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStg6Yf9MDzGR0UqlEYnPPQQTlqba8JUcHAFg&s)" width="250" alt="logo ARSLA">
 
-The application is currently in testing, notably in a hospital in France, with people suffering from diseases such as ALS and LGS. IGOOR already takes into account the first feedback from its users.
+The application is currently in testing phase at the [Hôpital Marin d'Hendaye](https://www.aphp.fr/hopitaux/hendaye){target=blank}, with people suffering from diseases such as ALS and LGS. IGOOR already takes into account the first feedbacks from its users.
 
 **If this software is important to you, you can make a donation to the IGOOR association to support its ongoing development here:**
 
-[Faire un don :gift:](https://igoor.org/){ .md-button target=_blank}
+[Donate :gift:](https://igoor.org/en/donate/){ .md-button target=_blank}
 
 
 ## What is IGOOR 

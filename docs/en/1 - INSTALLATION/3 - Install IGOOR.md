@@ -44,7 +44,8 @@ At the end of the installation, you can directly start IGOOR.
 
 1. IGOOR is not registered with Microsoft as a software publisher. SmartScreen may therefore prevent you from starting the installation process at all and display this popup:
 
-![Smart screen](https://learn-attachment.microsoft.com/api/attachments/fcf98b41-6f23-4eef-999f-7c9c6f212ce0?platform=QnA)
+![Smart screen](../assets/smartscreen.webp)
+
 
 **SOLUTION: Click on "More information" and then "Run anyway"
 

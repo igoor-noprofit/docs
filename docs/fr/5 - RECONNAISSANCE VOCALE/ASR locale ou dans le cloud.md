@@ -44,6 +44,7 @@ Paramètres > Extensions > ASR
 
 - désactivez le module ASR JAVASCRIPT
 - activez le module VOSK
+- enregistrez les paramètres globaux
 
 Rédemarrez IGOOR.
 

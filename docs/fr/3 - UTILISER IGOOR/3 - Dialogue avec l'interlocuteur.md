@@ -2,7 +2,7 @@ La reconnaissance vocale (ou ASR, automatic-speech-recognition) permet aujourd'h
 
 **IMPORTANT : la reconnaissance vocale par défaut se base sur l'IA de Groq, mais vous pouvez modifier votre fournisseur.**
 
-Actuellement, nous utilisons un bouton externe pour déclencher plus simplement la reconnaissance vocale (voir ???). Si vous ne disposez pas de bouton externe, cliquez sur l'icône du micro dans le logiciel IGOOR pour faire partir la reconnaissance vocale, et cliquez à nouveau pour la faire arrêter : 
+Actuellement, nous utilisons un bouton externe pour déclencher plus simplement la reconnaissance vocale. Si vous ne disposez pas de bouton externe, cliquez sur l'icône du micro dans le logiciel IGOOR pour faire partir la reconnaissance vocale, et cliquez à nouveau pour la faire arrêter : 
 
 ![ASR button](../assets/asr_button.png)
 

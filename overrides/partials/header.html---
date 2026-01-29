@@ -1,8 +1,0 @@
-{% block announce %}
-{% if config.theme.language == 'fr' %}
-Bienvenue !
-{% elif config.theme.language == 'en' %}
-Welcome!
-{% endif %}
-{% endblock %}
-

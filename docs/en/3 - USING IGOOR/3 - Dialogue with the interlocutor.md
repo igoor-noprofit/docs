@@ -2,13 +2,13 @@ Voice recognition (or ASR, automatic speech recognition) now allows you to **inc
 
 **IMPORTANT: voice recognition by default uses Groq's AI, but you can change your provider.**
 
-Currently, we use an external button to more easily trigger voice recognition (see ???). If you don't have an external button, click on the microphone icon in the IGOOR software to start voice recognition, and click again to stop it:
+Currently, we use an external button to more easily trigger voice recognition. If you don't have an external button, click on the microphone icon in the IGOOR software to start voice recognition, and click again to stop it:
 
 ![ASR button](../assets/asr_button.png)
 
 The button triggers the transcription of the interlocutor's words.
 
-## THE AI TRANSCRIBES YOUR SENTENCE, "REASONING" AND GENERATES RESPONSES
+## THE AI TRANSCRIBES YOUR SENTENCE, "REASONS" AND GENERATES PHRASE PREDICTIONS
 
 ### TRANSCRIPTION
 
