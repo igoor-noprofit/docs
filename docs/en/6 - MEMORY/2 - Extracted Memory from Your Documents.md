@@ -22,7 +22,7 @@ To find out more about this procedure:
 
 In this beta version, **you must manually move the documents you want to integrate into a specific folder** so that the application will include them in the memory at the next launch.
 
-IGOOR creates a folder on your computer at the first launch, in C:\Users or C:\Utilisateurs. If your username is Pierre, for example, you will have to put your documents in:
+IGOOR creates a folder on your computer at the first launch, in C:\Users or C:\Utilisateurs. If your username is "pierre", for example, you will have to put your documents in:
 
 C:\Users\pierre\AppData\Roaming\igoor\plugins\rag\medias
 
@@ -30,7 +30,7 @@ or
 
 C:\Utilisateurs\pierre\AppData\Roaming\igoor\plugins\rag\medias
 
-The application keeps track of the documents you have already integrated into the memory. If in the future you want to add other documents, it will be enough to move them into the folder. The integration will take place at the next launch of the IGOOR application.
+The application keeps track of the documents you have already integrated into the memory. If in the future you want to add other documents, it will be enough to move them into the folder. **The integration will take place at the next launch of the IGOOR application.**
 
 ## Tips
 
