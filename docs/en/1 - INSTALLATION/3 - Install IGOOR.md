@@ -47,7 +47,7 @@ At the end of the installation, you can directly start IGOOR.
 ![Smart screen](../assets/smartscreen.webp)
 
 
-**SOLUTION: Click on "More information" and then "Run anyway"
+**SOLUTION: Click on "More information" and then "Run anyway"**
 
 2. At the end of the installation process, launching the application may fail due to a false positive. A popup opens and informs you that the application has been recognized as a virus.
 
