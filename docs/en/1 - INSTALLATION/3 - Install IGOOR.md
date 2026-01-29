@@ -49,6 +49,8 @@ At the end of the installation, you can directly start IGOOR.
 
 **SOLUTION: Click on "More information" and then "Run anyway"**
 
-2. At the end of the installation process, launching the application may fail due to a false positive. A popup opens and informs you that the application has been recognized as a virus.
+2. At the end of the installation process, launching the IGOOR application itself may fail due to a false positive detected by Windows or your antivirus. A popup opens and informs you that the application has been recognized as a virus.
 
-**SOLUTION: Run the software installation as administrator**
+**SOLUTION: Run the software installation as administrator** by clicking on the application icon with the right button of the mouse and click on "Run as administrator" in the popup that opens. 
+
+![Smart screen](../assets/run_as_administrator.png)

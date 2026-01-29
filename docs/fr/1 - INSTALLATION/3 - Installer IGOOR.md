@@ -50,6 +50,8 @@ A la fin de l'installation, vous pourrez directement démarrer IGOOR.
 
 **SOLUTION: Cliquer sur "Information complémentaires" et ensuite "Executer quand meme"
 
-2. A la fin du processus d'installation, le lancement de l'application peut échouer à cause d'un faux positif. Un popup s'ouvre et vous informe que l'application a été reconnue comme étant un virus.
+2. A la fin du processus d'installation, le lancement de l'application peut échouer à cause d'un faux positif dans la détection de virus par Windows ou votre antivirus. Un popup s'ouvre et vous informe que l'application a été reconnue comme étant un virus.
 
-**SOLUTION: Executer en tant qu'administrateur l'installation du logiciel**
+**SOLUTION : Exécutez l'installation du logiciel en tant qu'administrateur** en cliquant sur l'icône de l'application avec le bouton droit de la souris et en sélectionnant « Exécuter en tant qu'administrateur » dans la fenêtre contextuelle qui s'ouvre.
+
+![Smart screen](../assets/run_as_administrator.png)
