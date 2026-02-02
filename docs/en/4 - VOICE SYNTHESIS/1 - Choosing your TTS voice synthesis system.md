@@ -4,7 +4,7 @@ IGOOR supports 3 TTS (Text-to-speech) modes:
 
 1. The **Windows built-in TTS** (TTSDEFAULT)
 2. **Elevenlabs**, one of the major players in the text-to-speech synthesis field
-3. **Speechify**
+3. **Speechify** (cheaper alternative to Elevenlabs in some cases)
 
 Other providers may be supported in the future.
 

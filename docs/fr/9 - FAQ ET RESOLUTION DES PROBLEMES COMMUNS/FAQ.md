@@ -1,9 +1,9 @@
 ## Général
 **Q : Qu’est‑ce qu’IGOOR ?**
-R : IGOOR est une application conversationnelle open‑source, pilotable par souris / tactile / commande oculaire, destinée aux personnes avec des pathologies qui impactent la communication, notamment la SLA.
+R : IGOOR est une application conversationnelle libre et gratuite, pilotable par souris / tactile / commande oculaire, destinée aux personnes avec des pathologies qui impactent la communication, notamment la SLA.
 
 **Q: IGOOR est-il payant ?** 
-R: **IGOOR est un logiciel libre, open-source et gratuit**. Cependant, certaines de ces fonctionnalités dépendent pour l'instant de fournisseurs tiers, qui proposent des abonnements payants. 
+R: **IGOOR est un logiciel libre, open-source et gratuit**. Cependant, certaines de ces fonctionnalités dépendent (pour l'instant) de fournisseurs tiers, qui proposent des abonnements payants. 
 **IMPORTANT: IGOOR n'est affilié avec AUCUN de ces fournisseurs**. 
 
 **Q: Où sont stockées mes mémoires ?**
@@ -12,7 +12,7 @@ R: **IGOOR est un logiciel libre, open-source et gratuit**. Cependant, certaines
 **Q: Où est stockée ma voix clonée ?**
 R: Pour cloner votre voix, les services dans le cloud tels que Speechify ou Elevenlabs ont besoin d'échantillons audio que vous leur envoyez (en dehors de l'application IGOOR). Seulement les personnes avec l'accès à votre compte chez ces fournisseurs peuvent générer des phrases avec votre voix clonée. La clé API d'accès à vos comptes est stockée également sur votre ordinateur pour que IGOOR puisse l'utiliser.
 
-**Q: J'ai besoin d'aide, à qui puis-je m'adresser ?**
+**Q: J'ai besoin d'aide, je veux signaler un bug ou une erreur dans l'application ou la documentation : à qui puis-je m'adresser ?**
 R: Après avoir consulté cette documentation, vous pouvez nous écrire directement à [support@igoor.org](mailto:support@igoor.org)
 
 

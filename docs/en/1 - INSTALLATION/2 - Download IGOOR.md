@@ -18,6 +18,6 @@ Thank you for your interest in our application. Please note that the version you
 
 Download the latest version available on your computer / tablet:
 
-[Download IGOOR 0.1.4.3 :material-download:](https://drive.google.com/file/d/10AcuELcYXom-1so71-MsIKRimt--_R6m/view?usp=drive_link){ .md-button target=_blank }
+[Download IGOOR 0.1.4.5 :material-download:](https://drive.google.com/file/d/1bJD4JVviNRp4ODtRLSL0pLQQG0bWZ1nK/view?usp=drive_link){ .md-button target=_blank }
 
 Your participation and feedback are essential to help us improve the application. Thank you for your understanding and contribution!

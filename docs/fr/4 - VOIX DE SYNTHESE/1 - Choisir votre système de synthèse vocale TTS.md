@@ -3,11 +3,11 @@
 
 IGOOR supporte 3 modalités de TTS (Text-to-speech) :
 
-1. Le **TTS intégré à Windows** (TTSDEFAULT)
-2. **Elevenlabs**, un des acteurs majeurs dans le domaine de la synthèse vocale 
-3. **Speechify**
-
-D'autres fournisseurs pourront etre supportés à l'avenir. 
+1. Le **TTS intégré à Windows** (TTSDEFAULT) : c'est la voix par défaut quand vous installez IGOOR pour la première fois ;
+2. **Elevenlabs**, un des acteurs majeurs dans le domaine de la synthèse vocale ;
+3. **Speechify** (alternative sans abonnement à Elevenlabs).
+   
+**IMPORTANT : L'association loi 1901 IGOOR n'est pas affilié avec Speechify ou Elevenlabs. D'autres fournisseurs pourront être supportés à l'avenir. 
 
 | CARACTERISTIQUES / PLUGIN                  | TTSDEFAULT<br>   | SPEECHIFY<br>                                                | ELEVENLABS<br>                                                                                                       |
 | ------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
@@ -18,13 +18,11 @@ D'autres fournisseurs pourront etre supportés à l'avenir.
 | qualité de la voix                         | standard         | très bonne                                                   | très bonne, et excellente sur un clonage professionnel                                                               |
 | changement d'intonation sur la meme phrase | ❌                | ✅                                                            | ✅                                                                                                                    |
 
-**IMPORTANT: L'association loi 1901 IGOOR n'est pas affilié avec Speechify ou Elevenlabs.**
-
 ### Conseils
 
-- **Si l'utilisateur d'IGOOR est affecté par la SLA, l'association ARSLA dispose de licences gratuites pour Elevenlabs**. [Contacter l'association ARSLA](https://www.arsla.org/)
-- Si vous avez la possibilité de [[2 - Cloner la voix de l'utilisateur d'IGOOR]], nous vous conseillons
-- Seulement si vous n'avez pas la possibilité de cloner la voix de l'utilisateur, ou que vous souhaitez une voix gratuite, choisissez le TTSDEFAULT. **La voix originale de la personne (ou une voix plus expressive des voix Windows) contribuent à garder un lien émotionnel avec l'utilisateur.**
+- **Si l'utilisateur d'IGOOR est affecté par la SLA, l'association ARSLA dispose de licences gratuites pour Elevenlabs**. [Contacter l'association ARSLA](https://www.arsla.org/){target=blank}
+- Si vous avez la possibilité de cloner la voix de l'utilisateur, nous vous conseillons de le faire :  **la voix originale de la personne (ou une voix plus expressive des voix Windows) contribuent à garder un lien émotionnel avec l'utilisateur.**  [[2 - Cloner la voix de l'utilisateur d'IGOOR]]
+- Seulement si vous n'avez pas la possibilité de cloner la voix de l'utilisateur, ou que vous souhaitez une voix gratuite, choisissez le TTSDEFAULT.
 
 ## Utiliser la voix de synthèse fournie par Windows
 
@@ -34,7 +32,7 @@ Paramètres > Extensions > TTS
 
 Clic sur l'icône des paramètres de l'extension *Default Text-to-speech* : 
 
-![[../assets/Pasted image 20251118161524.png]]
+![[DOCS/fr/assets/Pasted image 20251118161524.png]]
 
 Décochez la case pour utiliser **toujours** la voix de Windows.
 Choisissez la voix que vous souhaitez dans le menu déroulant et enregistrez les paramètres du plugin.
@@ -44,15 +42,16 @@ Choisissez la voix que vous souhaitez dans le menu déroulant et enregistrez les
 **IMPORTANT : Nous vous conseillons de garder activée la voix de synthèse Windows comme fallback (en cas de problèmes réseau).**
 Pour ce faire, dans les paramètres de l'extension ci-dessus, gardez la case cochée. Ensuite, activez l'extension correspondante à votre abonnement (Elevenlabs ou Speechify).
 
+**NOTE**: **Si vous activez plus d'un fournisseur dans le cloud, la voix sera doublée.**
+
 Vous allez devoir ensuite **renseigner votre clé API** pour l'accès au service. Par exemple pour Speechify :
 
-![[../assets/Pasted image 20251118163635.png]]
+![[DOCS/fr/assets/Pasted image 20251118163635.png]]
 
 Une fois la clé API renseigné, la liste des voix disponibles se remplira.
 Ensuite, en fonction de votre abonnement, vous allez pouvoir choisir une voix spécifique (votre voix clonée, ou une autre voix) et en personnaliser quelques paramètres :
 
-![[../assets/Pasted image 20251118163754.png]]
-
+![[DOCS/fr/assets/Pasted image 20251118163754.png]]
 
 
 
