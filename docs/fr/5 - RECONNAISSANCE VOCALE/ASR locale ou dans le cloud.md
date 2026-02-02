@@ -8,7 +8,7 @@ Actuellement, sur le logiciel IGOOR, **la meilleure qualité de transcription**,
 
 Si vous optez pour Mistral, vous devez donc créer un compte sur le AI Studio de Mistral : 
 
-![[DOCS/fr/assets/Pasted image 20251211105340.png]]
+![[../assets/voxtral_api_key.png]]
 
 [S'abonner à Mistral et créer une clé API](https://docs.mistral.ai/getting-started/quickstart)
 
@@ -34,7 +34,7 @@ En alternative, dans les paramètres de l'extension Whisper, vous pouvez choisir
 - plus rapide
 - moins précis.
 
-![[DOCS/fr/assets/Pasted image 20251211105416.png]]
+![[../assets/arsjs_config.png]]
 
 ## ASR local
 

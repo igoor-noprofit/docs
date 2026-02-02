@@ -4,7 +4,7 @@ La reconnaissance vocale (ou ASR, automatic-speech-recognition) permet aujourd'h
 
 Actuellement, nous utilisons un bouton externe pour déclencher plus simplement la reconnaissance vocale. Si vous ne disposez pas de bouton externe, cliquez sur l'icône du micro dans le logiciel IGOOR pour faire partir la reconnaissance vocale, et cliquez à nouveau pour la faire arrêter : 
 
-![ASR button](DOCS/fr/assets/asr_button.png)
+![ASR button](../assets/asr_button.png)
 
 Le bouton déclenche la transcription des mots de l'interlocuteur. 
 

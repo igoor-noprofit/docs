@@ -1,6 +1,6 @@
 <img src="https://igoor.org/wp-content/uploads/2024/08/logo_fb.png" width="450">
 
-**IGOOR** is a conversational application that is **open-source and free**, and can also be controlled by eye-tracking, designed to provide people with diseases that affect communication a means of communication as smooth and natural as possible.
+**IGOOR** is an **open-source and free conversational application, that can also be controlled by eye-tracking, designed to provide people with diseases that affect communication a means of communication as smooth and natural as possible.**
 
 **IGOOR** is developed by the no-profit [IGOOR association (1901 law)](https://igoor.org/en/){target=blank}, in partnership with the [ARSLA association](https://arsla.org){target=blank}. The original idea for this application comes from Igor Novitzki, founder of the association.
 

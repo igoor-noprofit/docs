@@ -32,7 +32,7 @@ Paramètres > Extensions > TTS
 
 Clic sur l'icône des paramètres de l'extension *Default Text-to-speech* : 
 
-![[DOCS/fr/assets/Pasted image 20251118161524.png]]
+![[../assets/ttsdefault.png]]
 
 Décochez la case pour utiliser **toujours** la voix de Windows.
 Choisissez la voix que vous souhaitez dans le menu déroulant et enregistrez les paramètres du plugin.
@@ -46,12 +46,12 @@ Pour ce faire, dans les paramètres de l'extension ci-dessus, gardez la case coc
 
 Vous allez devoir ensuite **renseigner votre clé API** pour l'accès au service. Par exemple pour Speechify :
 
-![[DOCS/fr/assets/Pasted image 20251118163635.png]]
+![[../assets/speechify.png]]
 
 Une fois la clé API renseigné, la liste des voix disponibles se remplira.
 Ensuite, en fonction de votre abonnement, vous allez pouvoir choisir une voix spécifique (votre voix clonée, ou une autre voix) et en personnaliser quelques paramètres :
 
-![[DOCS/fr/assets/Pasted image 20251118163754.png]]
+![[test_voice.png]]
 
 
 

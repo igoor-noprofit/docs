@@ -2,7 +2,7 @@
 
 La première fois que vous ouvrez IGOOR, la page des paramétrages s'ouvre automatiquement :
 
-![Onboarding](DOCS/fr/assets/igoor_onboarding.png)
+![Onboarding](../assets/igoor_onboarding.png)
 
 Vous devez sauvegarder tous les champs obligatoires.
 

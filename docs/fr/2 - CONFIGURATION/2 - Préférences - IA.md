@@ -17,26 +17,26 @@ Groq vous permet de tester gratuitement ses fonctionnalités avec un compte dév
 
 [Obtenez une clé gratuite Groq](https://console.groq.com/keys) 
 
-![Groq account login](DOCS/fr/assets/groq_account_login.png)
+![Groq account login](../assets/groq_account_login.png)
 Inscrivez-vous à l'aide de votre adresse email (si vous avez un compte Google ou d'un des autres fournisseurs indiqués, vous pouvez vous authentifier à travers eux).
 
 Une fois authentifié, cliquez sur le bouton *Create API Key* :
 
-![Groq api key creation](DOCS/fr/assets/groq_key.png)
+![Groq api key creation](../assets/groq_key.png)
 
 Donnez un nom à votre clé dans la fenetre qui s'ouvre, par ex. "igoorclé" :
 
-![Groq api key creation](DOCS/fr/assets/igoorclé.png)
+![Groq api key creation](../assets/igoorclé.png)
 
 Dans la fenetre qui s'ouvre, copiez votre clé en cliquant sur le bouton *Copy* :
 
-![Coller la clé](DOCS/en/assets/copy_api_key_2.png)
+![Coller la clé](../assets/copy_api_key_2.png)
 
 Revenez dans le logiciel IGOOR, rentrez dans les paramètres (bouton en haut à droite) et cliquez sur l'onglet IA. 
 
 Collez la clé dans le champ Clé API et cliquez sur le bouton **Enregistrer les paramètres principaux** :
 
-![Coller la clé](DOCS/fr/assets/paste_api_key.png)
+![Coller la clé](../assets/paste_api_key.png)
 
 La fenêtre des paramètres se ferme automatiquement. 
 

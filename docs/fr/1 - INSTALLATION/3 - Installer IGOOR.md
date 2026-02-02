@@ -5,7 +5,7 @@ Cliquez sur l'installeur et autorisez l'installation depuis une source inconnue
 IGOOR s'appuie sur FFMPEG et sur un composant Microsoft appelé Edge WebView2 Runtime.
 S'ils sont déjà installés sur votre ordinateur, vous verrez ce box :
 
-![ffmpeg_fr.png](ffmpeg_fr.png)
+![../assets/ffmpeg_fr.png](../assets/ffmpeg_fr.png)
 
 Autrement, le programme d'installation va continuer leur installation sur votre machine.
 Suivez les instructions pour leur installation.
@@ -14,14 +14,14 @@ Suivez les instructions pour leur installation.
 
 Vous devez ensuite accepter la licence IGOOR :
 
-![setup license](license_fr.png)
+![setup license](../assets/license_fr.png)
 
 
 Ensuite, choisissez le dossier où installer IGOOR si vous le souhaitez (ou laissez le dossier par défaut).
 Vous pouvez ensuite definir où se situera le logiciel dans le menu Start de Windows :
 
 
-![start menu](startmenu_fr.png)
+![start menu](../assets/startmenu_fr.png)
 
 
 Ensuite, cochez les cases si vous souhaitez :
@@ -30,16 +30,16 @@ a) créer un raccourci sur le bureau ;
 b) lancer automatiquement IGOOR au démarrage de Windows.
 
 
-![additional_tasks](tasks_fr.png)
+![additional_tasks](../assets/tasks_fr.png)
 
 Le recapitulatif vous invite à finalisers l'installation en cliquant sur "Install" :
 
-![ready to install](ready_to_install_fr.png)
+![ready to install](../assets/ready_to_install_fr.png)
 
 
 Le logiciel commence l'installation :
 
-![ready to install](DOCS/fr/assets/extracting_files.png)
+![ready to install](../assets/extracting_files.png)
 A la fin de l'installation, vous pourrez directement démarrer IGOOR.
 
 ## Résolution de problèmes d'installation communs
@@ -54,4 +54,4 @@ A la fin de l'installation, vous pourrez directement démarrer IGOOR.
 
 **SOLUTION : Exécutez l'installation du logiciel en tant qu'administrateur** en cliquant sur l'icône de l'application avec le bouton droit de la souris et en sélectionnant « Exécuter en tant qu'administrateur » dans la fenêtre contextuelle qui s'ouvre.
 
-![Smart screen](DOCS/fr/assets/run_as_administrator.png)
+![Smart screen](../assets/run_as_administrator.png)
