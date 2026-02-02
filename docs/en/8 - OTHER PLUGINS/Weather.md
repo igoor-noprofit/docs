@@ -6,7 +6,7 @@ This extension adds contextual weather information (temperature, wind, etc.) to 
 
 Go to **Settings > Extensions > Context > Weather**:
 
-![weather_activate.png](app://b6559fe9d2e4cfaabd887ddb01dbcd85c02f/C:/TMP/IGOOR/OBSIDIAN/IGOOR_VAULT/DOCS/fr/assets/weather_activate.png?1770040175297)
+![../assets/weather_activate.png](../assets/weather_activate.png)
 
 Enable the toggle.  
 ✅ **IMPORTANT: You must restart IGOOR when activating (or deactivating) extensions.**
@@ -15,14 +15,14 @@ Enable the toggle.
 
 Go to **Settings > Extensions > Context > Weather**:
 
-![weather_activated.png](app://b6559fe9d2e4cfaabd887ddb01dbcd85c02f/C:/TMP/IGOOR/OBSIDIAN/IGOOR_VAULT/DOCS/fr/assets/weather_activated.png?1770040145131)
+![weather_activated.png](../assets/weather_activated.png)
 
 Click the extension's settings icon. The extension uses a free service from [OpenWeatherMap](https://openweathermap.org/).
 
 - Register and retrieve your API key here:  
     [Get a free OpenWeatherMap API key](https://home.openweathermap.org/users/sign_up){target:blank}
 
-![weather_config.png](app://b6559fe9d2e4cfaabd887ddb01dbcd85c02f/C:/TMP/IGOOR/OBSIDIAN/IGOOR_VAULT/DOCS/fr/assets/weather_config.png?1770040372964)
+![weather_config.png](../assets/weather_config.png)
 
 - You can enter your exact home address. **This address is never shared externally; it's used internally by IGOOR to compare against the automatically updated location, to determine if the user is at home.**
 
@@ -32,6 +32,6 @@ Save your changes.
 
 Once activated, you'll see the weather temperature in the top bar:
 
-![weather_icon_topbar.png](app://b6559fe9d2e4cfaabd887ddb01dbcd85c02f/C:/TMP/IGOOR/OBSIDIAN/IGOOR_VAULT/DOCS/fr/assets/weather_icon_topbar.png?1770039537403)
+![weather_icon_topbar.png](../assets/weather_icon_topbar.png)
 
 From this moment, weather information will be added to all text predictions.
