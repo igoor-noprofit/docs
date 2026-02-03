@@ -48,7 +48,7 @@ A la fin de l'installation, vous pourrez directement démarrer IGOOR.
 
 ![Smart screen](https://learn-attachment.microsoft.com/api/attachments/fcf98b41-6f23-4eef-999f-7c9c6f212ce0?platform=QnA)
 
-**SOLUTION: Cliquer sur "Information complémentaires" et ensuite "Executer quand meme"
+**SOLUTION: Cliquer sur "Information complémentaires" et ensuite "Exécuter quand même"**
 
 2. A la fin du processus d'installation, le lancement de l'application peut échouer à cause d'un faux positif dans la détection de virus par Windows ou votre antivirus. Un popup s'ouvre et vous informe que l'application a été reconnue comme étant un virus.
 

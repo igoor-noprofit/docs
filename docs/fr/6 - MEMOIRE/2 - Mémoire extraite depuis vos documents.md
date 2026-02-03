@@ -17,29 +17,27 @@ Nous pouvons vous accompagner sur la création d'un document rempli de ce genre 
 Pour en savoir plus sur cette procédure :
 
 [Comment accéder à l'outil web d'enregistrement de la mémoire biographique](https://igoor.org/enregistreur-vocal/){target=blank}
-## Intégration de documents
+## Intégration de nouveaux documents
 
-Dans cette version beta, **vous devez manuellement déplacer les documents que vous souhaitez intégrer dans un dossier spécifique** pour que l'application, au prochain lancement, les intègre à la mémoire. 
-IGOOR crée un dossier sur votre ordinateur au premier lancement, dans C:\Utilisateurs ou C:\Users. Si votre nom utilisateur est "pierre", par exemple, vous allez devoir mettre vos documents dans :
+Allez dans Extensions > Knowledge Base et cliquez sur l'icône des paramètres de l'extension Knowledge Base :
 
-C:\Users\pierre\AppData\Roaming\igoor\plugins\rag\medias
+![[../assets/knowledge_base.png]]
 
-ou 
+Vous verrez une liste des documents actuellement téléversés à gauche ; à droite, un espace dans lequel vous pouvez glisser / déposer vos documents pour intégration. Vous pouvez glisser / déposer plusieurs documents à la fois.
+Avec le bouton "PARCOURIR LES FICHIERS", vous pouvez choisir des fichiers depuis un sélecteur Windows. 
 
-C:\Utilisateurs\pierre\AppData\Roaming\igoor\plugins\rag\medias
+![[../assets/knowledge_base_ui.png]]
 
-L'application garde trace des documents que vous avez déjà intégrés à la mémoire. Si à l'avenir vous souhaitez ajouter d'autres documents, il suffira de les déplacer dans le dossier. 
-**L'intégration se fait au prochain lancement de l'application IGOOR.** 
-
+Dès que vous déposez des documents, l'application commence l'intégration. 
 ## Conseils
 
 L'IA fera de son mieux pour "comprendre" les informations dans vos documents. 
 Idéalement, il est conseillé néanmoins d'utiliser dans vos textes des répétitions fréquentes du sujet pour éviter des problèmes d'attribution, par exemple : 
 
-%% Pierre est le beau-fils de Jean-Marc. La femme de Jean-Marc s'appelle Julie. Julie et Jean-Marc habitent à Nancy.  %%
+"Pierre est le beau-fils de Jean-Marc. La femme de Jean-Marc s'appelle Julie. Julie et Jean-Marc habitent à Nancy."
 
 Pour tester que IGOOR prenne bien en compte vos prédictions, vous pouvez par ex. utiliser la complétion automatique. Dans l'exemple ci-dessus, en écrivant par ex. 
 
 Jean-Marc habite...
 
-Les prédictions devraient inclure par ex. " à Nancy avec Julie".
+Les prédictions devraient inclure dans ce cas quelque chose comme " à Nancy avec Julie".

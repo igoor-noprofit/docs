@@ -1,4 +1,4 @@
-You can automatically extract information about yourself from documents containing significant information about your life.
+You can automatically extract information about yourself from documents containing significant life details.
 
 IGOOR accepts the following formats:
 
@@ -6,40 +6,41 @@ IGOOR accepts the following formats:
 - **Text** (extension .txt)
 - **Markdown** (extension .md)
 
-Other formats might be added in future versions.
+Other formats may be added in future versions.
 
 ## Web tool for recording biographical memory
 
-At the beginning, **IGOOR has no information about you, apart from the mandatory information such as your first name, health status, etc.** It is therefore difficult for IGOOR to understand friendship and family relationships, and many other pieces of information about you.
+At the start, **apart from the mandatory information such as your first name, health status, etc., IGOOR has no information about you**: therefore it is difficult for IGOOR to understand friendships, family relationships, and many other pieces of information about you.
 
-We can help you create a document filled with this kind of significant information through a web form that you can fill in either with your voice (automatically transcribed) or using the keyboard.
+We can help you create a document filled with such significant information through a web form that you can fill either with your voice (automatically transcribed) or using the keyboard.
 
-To find out more about this procedure:
+To learn more about this procedure:
 
 [How to access the web tool for recording biographical memory](https://igoor.org/enregistreur-vocal/){target=blank}
 
-## Integration of documents
+## Integration of new documents
 
-In this beta version, **you must manually move the documents you want to integrate into a specific folder** so that the application will include them in the memory at the next launch.
+Go to **Extensions > Knowledge Base** and click the Knowledge Base extension settings icon:
 
-IGOOR creates a folder on your computer at the first launch, in C:\Users or C:\Utilisateurs. If your username is "pierre", for example, you will have to put your documents in:
+![[../assets/knowledge_base.png]]
 
-C:\Users\pierre\AppData\Roaming\igoor\plugins\rag\medias
+You will see a list of currently uploaded documents on the left; on the right, an area where you can drag‑and‑drop your documents for integration. You can drag‑and‑drop multiple documents at once.
 
-or
+With the **BROWSE FILES** button, you can choose files via a Windows file selector.
 
-C:\Utilisateurs\pierre\AppData\Roaming\igoor\plugins\rag\medias
+![[../assets/knowledge_base_ui.png]]
 
-The application keeps track of the documents you have already integrated into the memory. If in the future you want to add other documents, it will be enough to move them into the folder. **The integration will take place at the next launch of the IGOOR application.**
+As soon as you drop documents, the application starts integration.
 
 ## Tips
 
-The AI will do its best to "understand" the information in your documents. However, it is recommended to use frequent repetitions of the subject in your texts to avoid attribution problems, for example:
+The AI will do its best to "understand" the information in your documents.
+Ideally, it is recommended to use frequent repetitions of the subject in your texts to avoid attribution problems, for example:
 
-%% Pierre is Jean-Marc's son-in-law. Jean-Marc's wife is named Julie. Julie and Jean-Marc live in Nancy. %%
+"Pierre is Jean‑Marc's son‑in‑law. Jean‑Marc's wife is named Julie. Julie and Jean‑Marc live in Nancy."
 
-To test that IGOOR takes your predictions into account correctly, you can for example use auto-completion. In the example above, by typing for example:
+To test that IGOOR correctly takes your predictions into account, you can, for example, use auto‑completion. In the example above, by typing for example:
 
-Jean-Marc lives...
+Jean‑Marc lives...
 
-The predictions should include for example " in Nancy with Julie".
+The predictions should include something like " in Nancy with Julie".
