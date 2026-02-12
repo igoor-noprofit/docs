@@ -1,4 +1,5 @@
 <img src="https://igoor.org/wp-content/uploads/2024/08/logo_fb.png" width="450">
+
 **IGOOR** est une application conversationnelle **libre (licence GPLv3) et open-source**, pilotable aussi par commande oculaire et conçue pour fournir, aux personnes atteintes de maladies qui impactent la communication, un moyen de communication le plus fluide et naturel possible.
 
 **IGOOR** est développé par l'[association loi 1901 IGOOR](https://igoor.org){target=blank}, en partenariat avec l'association [ARSLA](https://arsla.org){target=blank}. L'idée originale de cette application vient de Igor Novitzki, fondateur de l'association IGOOR.
