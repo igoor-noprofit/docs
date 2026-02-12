@@ -1,6 +1,6 @@
 IGOOR has three types of memory:
 
-- [[2 - Extracted Memory from Your Documents]] (manual, static)
+- [[2 - Memory extracted from your documents]] (manual, static)
 - [[3 - Long-term memory]] (automatic, incremental)
 - [[4 - Short-term memory]] (automatic, dynamic)
 

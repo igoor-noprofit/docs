@@ -1,4 +1,4 @@
-Vous pouvez extraire automatiquement des informations sur vous, venant de documents contenant informations significatives sur votre vie. 
+Vous pouvez ajouter à la base de connaissance d'IGOOR des documents contenants informations significatives sur votre vie. 
 
 IGOOR accepte les formats suivants :
 
@@ -24,15 +24,22 @@ Allez dans Extensions > Knowledge Base et cliquez sur l'icône des paramètres d
 ![[../assets/knowledge_base.png]]
 
 Vous verrez une liste des documents actuellement téléversés à gauche ; à droite, un espace dans lequel vous pouvez glisser / déposer vos documents pour intégration. Vous pouvez glisser / déposer plusieurs documents à la fois.
-Avec le bouton "PARCOURIR LES FICHIERS", vous pouvez choisir des fichiers depuis un sélecteur Windows. 
+Avec le bouton "PARCOURIR LES FICHIERS", vous pouvez choisir des fichiers depuis un sélecteur Windows à intégrer à la base de données. 
 
-![[../assets/knowledge_base_ui.png]]
+![[../assets/doc.png]]
 
 Dès que vous déposez des documents, l'application commence l'intégration. 
-## Conseils
+Le temps d'intégration des documents augmentera en fonction du nombre des documents et de leur longueur.
 
-L'IA fera de son mieux pour "comprendre" les informations dans vos documents. 
-Idéalement, il est conseillé néanmoins d'utiliser dans vos textes des répétitions fréquentes du sujet pour éviter des problèmes d'attribution, par exemple : 
+### Documents favoris
+
+En cliquant l'icône "étoile" à côté du bouton rouge, vous pouvez obliger IGOOR à **envoyer systématiquement le document spécifique**, **à chaque fois que l'IA est appelée**. L'avantage est que les informations seront assurément insérées dans le contexte ; le désavantage est que, plus le nombre de documents augmente, plus de tokens sont consommés par l'IA. Sur un grand nombre d'appels par jour, cela peut faire une différence.
+
+**CONSEIL** : **Si votre document contient des informations essentielles, ajoutez-le aux favoris.**
+
+Le système de recherche de IGOOR fera de son mieux pour "comprendre" les informations dans vos documents et les intégrer aux appels IA (seulement) quand nécessaire.
+
+**Pour les documents favoris, il est conseillé d'utiliser dans vos textes des répétitions fréquentes du sujet pour éviter des problèmes d'attribution**, par exemple : 
 
 "Pierre est le beau-fils de Jean-Marc. La femme de Jean-Marc s'appelle Julie. Julie et Jean-Marc habitent à Nancy."
 
@@ -41,3 +48,7 @@ Pour tester que IGOOR prenne bien en compte vos prédictions, vous pouvez par ex
 Jean-Marc habite...
 
 Les prédictions devraient inclure dans ce cas quelque chose comme " à Nancy avec Julie".
+
+## Supprimer un document
+
+En cliquant sur le bouton rouge, vous pouvez supprimer un document. IGOOR vous demandera de confirmer.

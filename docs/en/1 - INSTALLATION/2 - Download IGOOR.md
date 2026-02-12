@@ -1,4 +1,4 @@
-## Status Notice BETA
+## BETA Status Notice
 
 Thank you for your interest in our application. Please note that the version you are about to install is an **experimental version** intended for testing and evaluation purposes only.
 
@@ -11,12 +11,7 @@ Thank you for your interest in our application. Please note that the version you
 - **Possible incompatibilities with future versions:** Due to its experimental status, using this application may not be fully compatible with future versions of the IGOOR software.
 
 
-**Disclaimer:**
-
-**By downloading, installing, and using this application, you acknowledge and accept that it is provided "as is", without any warranty of any kind, express or implied. The developers and contributors cannot be held responsible for any direct or indirect damages (including, but not limited to, data loss, business interruption, or any other damage) resulting from the use or inability to use this software.**
-
-
-Download the latest version available on your computer / tablet:
+Download the latest version available on your Windows computer / tablet:
 
 [Download IGOOR 0.1.4.5 :material-download:](https://drive.google.com/file/d/1bJD4JVviNRp4ODtRLSL0pLQQG0bWZ1nK/view?usp=drive_link){ .md-button target=_blank }
 

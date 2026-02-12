@@ -1,5 +1,6 @@
 - PC ou tablette Windows 10/11
-- Résolution minimale conseillée : 1920x1080
+- Résolution minimale : 1280,960
+- Résolution conseillée : 1920x1080 ou plus
 - Une connexion internet (de préférence fibre optique ou ADSL)
 - Une clé API Groq
 ## Comment obtenir une clé API Groq

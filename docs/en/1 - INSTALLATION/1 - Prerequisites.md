@@ -1,5 +1,6 @@
 - Windows 10/11 PC or tablet  
-- Recommended minimum resolution: 1920x1080  
+- Minimum resolution: 1280,960
+- Recommended resolution: 1920x1080 or more
 - Internet connection (preferably fiber optic or ADSL)  
 - A Groq API key  
 

@@ -48,7 +48,7 @@ Paramètres > Extensions > ASR
 
 Rédemarrez IGOOR.
 
-VOSK est réservé à l'usage en local, pour ceux qui ne souhaitent pas payer pour un service de reconnaissance vocale ou pour des raisons de confidentialité.
+**VOSK est réservé à l'usage en local, pour ceux qui ne souhaitent pas payer pour un service de reconnaissance vocale ou pour des raisons de confidentialité. Son support est limité et sera probablement remplacé par un autre modèle local plus performant.**
 
 **La reconnaissance vocale locale demande une quantité de mémoire vive (RAM) qui atteint les 3Go pour le modèle de grande taille. Vous pouvez changer la taille du modèle dans les paramètres du plugin Vosk si votre mémoire vive n'est pas suffisante.**
 
