@@ -10,9 +10,11 @@ Thank you for your interest in our application. Please note that the version you
     
 - **Possible incompatibilities with future versions:** Due to its experimental status, using this application may not be fully compatible with future versions of the IGOOR software.
 
+[Download IGOOR's latest release :material-download:](https://github.com/igoor-noprofit/igoor/releases/download/latest/IGOOR.exe){ .md-button target=_blank }
 
-Download the latest version available on your Windows computer / tablet:
+On your Windows computer / tablet. Then go to [[3 - Install IGOOR]]
 
-[Download IGOOR 0.1.4.5 :material-download:](https://drive.google.com/file/d/1bJD4JVviNRp4ODtRLSL0pLQQG0bWZ1nK/view?usp=drive_link){ .md-button target=_blank }
+Your participation and feedback are essential in helping us improve the app.  
+You can reach us at support@igoor.org.
 
-Your participation and feedback are essential to help us improve the application. Thank you for your understanding and contribution!
+Thank you for your contribution!

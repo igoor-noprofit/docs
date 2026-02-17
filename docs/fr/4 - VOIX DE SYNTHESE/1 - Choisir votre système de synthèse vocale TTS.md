@@ -28,27 +28,37 @@ IGOOR supporte 3 modalités de TTS (Text-to-speech) :
 
 Allez dans : 
 
-Paramètres > Extensions > TTS
+![[../assets/accueil.png]]
 
-Clic sur l'icône des paramètres de l'extension *Default Text-to-speech* : 
+Paramètres > Synthèse vocale > Configurer la voix de Windows
+
 
 ![[../assets/ttsdefault.png]]
 
 Décochez la case pour utiliser **toujours** la voix de Windows.
 Choisissez la voix que vous souhaitez dans le menu déroulant et enregistrez les paramètres du plugin.
 
+### Comment installer d'autre voix sur Windows :
+https://support.microsoft.com/fr-fr/windows/annexe-a-langues-et-voix-prises-en-charge-4486e345-7730-53da-fcfe-55cc64300f01#windowsversion=windows_10
+
 ## Utiliser une voix de synthèse dans le cloud
 
-**IMPORTANT : Nous vous conseillons de garder activée la voix de synthèse Windows comme fallback (en cas de problèmes réseau).**
-Pour ce faire, dans les paramètres de l'extension ci-dessus, gardez la case cochée. Ensuite, activez l'extension correspondante à votre abonnement (Elevenlabs ou Speechify).
+**IMPORTANT : Nous vous conseillons de garder activée la voix de synthèse Windows en cas de problèmes réseau.**
 
-**NOTE**: **Si vous activez plus d'un fournisseur dans le cloud, la voix sera doublée.**
+Pour ce faire, dans les paramètres de l'extension ci-dessus, gardez la case cochée. 
 
-Vous allez devoir ensuite **renseigner votre clé API** pour l'accès au service. Par exemple pour Speechify :
+Ensuite, activez l'extension correspondante à votre abonnement (Elevenlabs ou Speechify), depuis :
+
+Paramètres > Extensions > TTS
+
+**NOTE**: **Si vous activez plus d'un fournisseur dans le cloud, votre voix sera doublée.**
+
+Vous allez devoir ensuite **renseigner votre clé API** pour l'accès au service. Par exemple, pour Speechify :
 
 ![[../assets/speechify.png]]
 
-Une fois la clé API renseigné, la liste des voix disponibles se remplira.
+**Une fois la clé API renseignée, la liste des voix disponibles se remplira automatiquement.**
+
 Ensuite, en fonction de votre abonnement, vous allez pouvoir choisir une voix spécifique (votre voix clonée, ou une autre voix) et en personnaliser quelques paramètres :
 
 ![[test_voice.png]]

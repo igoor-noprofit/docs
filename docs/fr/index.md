@@ -28,7 +28,7 @@ L'application est actuellement en test à l'[Hôpital Marin d'Hendaye](https://w
 
 ## Licence
 
-**IGOOR** est développé par Carlo Giordano, d’après un concept d’Igor Novitzki.  
+**IGOOR** est développé par l'association loi 1901, Carlo Giordano, d’après un concept d’Igor Novitzki.  
 L'UX/UI originale est de Piero Ciarfaglia (Zenoid).
 
 **IGOOR est distribué avec une licence GPLv3**

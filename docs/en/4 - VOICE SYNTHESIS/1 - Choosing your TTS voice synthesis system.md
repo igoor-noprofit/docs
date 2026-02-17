@@ -38,6 +38,9 @@ Click on the settings icon of the *Default Text-to-speech* extension:
 Uncheck the box to **always** use the Windows voice.
 Choose the voice you want from the dropdown menu and save the plugin settings.
 
+### How to install other Windows voices:
+https://support.microsoft.com/en-gb/windows/appendix-a-supported-languages-and-voices-4486e345-7730-53da-fcfe-55cc64300f01
+
 ## Using a cloud-based text-to-speech voice
 
 **IMPORTANT: We recommend keeping the Windows text-to-speech voice enabled as a fallback (in case of network issues).**

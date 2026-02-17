@@ -40,7 +40,8 @@ Le recapitulatif vous invite à finalisers l'installation en cliquant sur "Insta
 Le logiciel commence l'installation :
 
 ![ready to install](../assets/extracting_files.png)
-A la fin de l'installation, vous pourrez directement démarrer IGOOR.
+A la fin de l'installation, vous pourrez directement démarrer IGOOR depuis son icône : allez au [[4 - Premier lancement]].
+
 
 ## Résolution de problèmes d'installation communs
 
