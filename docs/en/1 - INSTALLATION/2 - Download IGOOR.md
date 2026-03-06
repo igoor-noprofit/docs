@@ -10,7 +10,7 @@ Thank you for your interest in our application. Please note that the version you
     
 - **Possible incompatibilities with future versions:** Due to its experimental status, using this application may not be fully compatible with future versions of the IGOOR software.
 
-[Download IGOOR's latest release :material-download:](https://github.com/igoor-noprofit/igoor/releases/download/latest/IGOOR.exe){ .md-button target=_blank }
+[Download IGOOR's latest release :material-download:](https://github.com/igoor-noprofit/igoor/releases/latest/download/IGOOR.exe){ .md-button target=_blank }
 
 On your Windows computer / tablet. Then go to [[3 - Install IGOOR]]
 

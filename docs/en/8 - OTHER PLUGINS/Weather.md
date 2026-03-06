@@ -24,7 +24,7 @@ Click the extension's settings icon. The extension uses a free service from [Op
 
 ![weather_config.png](../assets/weather_config.png)
 
-- You can enter your exact home address. **This address is never shared externally; it's used internally by IGOOR to compare against the automatically updated location, to determine if the user is at home.**
+- You can enter your exact home address. **This address is never shared externally; it's used internally by IGOOR to compare against the automatically updated location, to determine if the user is at home.** What is sent to OpenWeatherMap is the geocoded latitude / longitude.
 
 Save your changes.
 

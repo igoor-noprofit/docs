@@ -21,47 +21,8 @@ IGOOR supporte 3 modalités de TTS (Text-to-speech) :
 ### Conseils
 
 - **Si l'utilisateur d'IGOOR est affecté par la SLA, l'association ARSLA dispose de licences gratuites pour Elevenlabs**. [Contacter l'association ARSLA](https://www.arsla.org/){target=blank}
-- Si vous avez la possibilité de cloner la voix de l'utilisateur, nous vous conseillons de le faire :  **la voix originale de la personne (ou une voix plus expressive des voix Windows) contribuent à garder un lien émotionnel avec l'utilisateur.**  [[2 - Cloner la voix de l'utilisateur d'IGOOR]]
-- Seulement si vous n'avez pas la possibilité de cloner la voix de l'utilisateur, ou que vous souhaitez une voix gratuite, choisissez le TTSDEFAULT.
-
-## Utiliser la voix de synthèse fournie par Windows
-
-Allez dans : 
-
-![[../assets/accueil.png]]
-
-Paramètres > Synthèse vocale > Configurer la voix de Windows
-
-
-![[../assets/ttsdefault.png]]
-
-Décochez la case pour utiliser **toujours** la voix de Windows.
-Choisissez la voix que vous souhaitez dans le menu déroulant et enregistrez les paramètres du plugin.
-
-### Comment installer d'autre voix sur Windows :
-https://support.microsoft.com/fr-fr/windows/annexe-a-langues-et-voix-prises-en-charge-4486e345-7730-53da-fcfe-55cc64300f01#windowsversion=windows_10
-
-## Utiliser une voix de synthèse dans le cloud
-
-**IMPORTANT : Nous vous conseillons de garder activée la voix de synthèse Windows en cas de problèmes réseau.**
-
-Pour ce faire, dans les paramètres de l'extension ci-dessus, gardez la case cochée. 
-
-Ensuite, activez l'extension correspondante à votre abonnement (Elevenlabs ou Speechify), depuis :
-
-Paramètres > Extensions > TTS
-
-**NOTE**: **Si vous activez plus d'un fournisseur dans le cloud, votre voix sera doublée.**
-
-Vous allez devoir ensuite **renseigner votre clé API** pour l'accès au service. Par exemple, pour Speechify :
-
-![[../assets/speechify.png]]
-
-**Une fois la clé API renseignée, la liste des voix disponibles se remplira automatiquement.**
-
-Ensuite, en fonction de votre abonnement, vous allez pouvoir choisir une voix spécifique (votre voix clonée, ou une autre voix) et en personnaliser quelques paramètres :
-
-![[test_voice.png]]
+- Si vous avez la possibilité de cloner la voix de l'utilisateur, nous vous conseillons de le faire :  **la voix originale de la personne (ou une voix plus expressive des voix Windows) contribuent à garder un lien émotionnel avec l'utilisateur.**  [[3 - Cloner la voix de l'utilisateur d'IGOOR]]
+- Seulement si vous n'avez pas la possibilité de cloner la voix de l'utilisateur, ou que vous souhaitez une voix gratuite, choisissez la [[2 - Voix de synthèse de Windows]]
 
 
 

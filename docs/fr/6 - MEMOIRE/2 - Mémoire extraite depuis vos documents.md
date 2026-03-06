@@ -17,6 +17,15 @@ Nous pouvons vous accompagner sur la création d'un document rempli de ce genre 
 Pour en savoir plus sur cette procédure :
 
 [Comment accéder à l'outil web d'enregistrement de la mémoire biographique](https://igoor.org/enregistreur-vocal/){target=blank}
+
+# Modèle de document
+
+Vous pouvez également écrire un document sans passer par l'outil. Vous pouvez vous baser sur ce modèle, mais évidemment 
+
+
+
+
+
 ## Intégration de nouveaux documents
 
 Allez dans Extensions > Knowledge Base et cliquez sur l'icône des paramètres de l'extension Knowledge Base :
