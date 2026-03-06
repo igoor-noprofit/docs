@@ -16,7 +16,7 @@ Merci de votre intérêt pour notre application. Veuillez noter que la version q
 sur votre ordinateur / tablette Windows. Passez a [[3 - Installer IGOOR]].
 
 Votre participation et vos retours sont essentiels pour nous aider à améliorer l'application. 
-Vous pouvez nous écrire @ support@igoor.org.
+Vous pouvez nous écrire @ <a href="mailto:support@igoor.org">support@igoor.org<a>
 
 Merci pour votre contribution !
 
