@@ -3,10 +3,13 @@ N'importe quel bouton externe compatible avec votre dispositif peut être utilis
 ![[../assets/asr_button.png]]
 **Le raccourci clavier par défaut est CTRL+K**, mais vous pouvez le modifier à tout moment dans : 
 
-Paramètres > Extensions > ASR 
+Paramètres > Accueil > Reconnaissance vocale > Configurer la reconnaissance vocale 
 
-et, dans les paramètres de l'extension ASR, cliquez sur le champ de texte :
+Cliquez sur le champ de texte :
 
 ![[../assets/keyboard_combination.png]]
 
-Et cliquez avec votre bouton externe. La combinaison de touches envoyées par votre bouton externe apparaitra dans le champ de texte.
+Et cliquez sur votre bouton externe. La combinaison de touches envoyées par votre bouton externe apparaitra dans le champ de texte.
+Sauvegardez les paramètres.
+
+**ASTUCE** : n'utilisez pas le bouton 

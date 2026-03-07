@@ -34,12 +34,15 @@ In the window that opens, copy your key by clicking on the *Copy* button:
 
 Go back to the IGOOR software, enter the settings (button in the top right corner) and click on the AI tab.
 
-Paste the key into the API Key field and click on the **Save Main Settings** button:
+Paste the key into the API Key field :
 
-![Coller la clé](../assets/paste_api_key.png)
+![[validating_groq_api_key.png]]
 
-The settings window will close automatically.
+The key will be validated with a green check.
+Click on the **Save Main Settings** button: the settings window will close automatically.
 
-**IMPORTANT: If you use IGOOR regularly, you will quickly encounter limitations (and therefore predictions may not work for a certain period of time). Make sure to enter your credit card information on Groq to get a pro account.**
+**IMPORTANT: If you use IGOOR regularly, you will quickly encounter rate limitations (and therefore predictions may not work for a certain period of time). Make sure to enter your credit card information on Groq to get a paid developer account.**
+
+<a href="https://console.groq.com/docs/rate-limits" target="_blank">Check Groq rate limits for free / developer accounts</a>
 
 [Track your usage on the Groq dashboard :dollar:](https://console.groq.com/dashboard/usage){ .md-button target=_blank}

@@ -17,4 +17,4 @@ On your Windows computer / tablet. Then go to [[3 - Install IGOOR]]
 Your participation and feedback are essential in helping us improve the app.  
 You can reach us at support@igoor.org.
 
-Thank you for your contribution!
+**Thank you for your feedback!**

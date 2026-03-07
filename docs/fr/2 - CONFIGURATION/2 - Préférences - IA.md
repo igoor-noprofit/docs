@@ -40,6 +40,8 @@ Collez la clé dans le champ Clé API et cliquez sur le bouton **Enregistrer les
 
 La fenêtre des paramètres se ferme automatiquement. 
 
-**IMPORTANT: Si vous utilisez régulièrement IGOOR vous allez rapidement rencontrer des limitations (et donc les prédictions peuvent ne pas fonctionner pendant un certain temps). Pensez à renseigner vos informations de carte bancaire sur Groq pour avoir un compte développeur non restreint.**
+**IMPORTANT: Si vous utilisez régulièrement IGOOR vous allez rapidement rencontrer des limitations (et donc les prédictions peuvent ne pas fonctionner pendant un certain temps). Pensez à renseigner vos informations de carte bancaire sur Groq pour avoir un compte développeur payant.**
+
+<a href="https://console.groq.com/docs/rate-limits" target="_blank">Vérifiez les limitations de Groq sur les comptes gratuits / développeur.</a>
 
 [Suivre votre consommation sur la dashboard Groq :dollar:](https://console.groq.com/dashboard/usage){ .md-button target=_blank}

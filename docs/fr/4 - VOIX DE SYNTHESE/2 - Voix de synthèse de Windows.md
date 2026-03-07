@@ -8,7 +8,9 @@ Paramètres > Accueil > Synthèse vocale > Configurer la voix de Windows
 
 ![[../assets/ttsdefault.png]]
 
-Décochez la case pour utiliser **toujours** la voix de Windows ; autrement, elle ne sera utilisée qu'en cas de malfonctionnement de la voix clonée.
+Décochez la case pour utiliser **toujours** la voix de Windows ; autrement, elle ne sera utilisée qu'en cas de malfonctionnement de la voix clonée. 
+
+**ASTUCE : Si vous clonez votre voix via le cloud, utilisez toujours la voix de Windows comme sécurité additionnelle**. De cette façon, s'il y a un problème de réseau Internet ou du fournisseur de la voix clonée, vous pourrez toujours avoir accès à une possibilité d'expression via la complétion automatique.
 
 Choisissez la voix que vous souhaitez dans le menu déroulant parmi les voix disponibles, et enregistrez les paramètres du plugin.
 

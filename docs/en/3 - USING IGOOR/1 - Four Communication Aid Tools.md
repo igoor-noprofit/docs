@@ -2,7 +2,7 @@ IGOOR provides four tools to help the person affected by a communication disorde
 
 - [[2 - Daily Needs]]
 - [[3 - Dialogue with the Interlocutor]]
-- [[4 - Automatic Input]]
+- [[4 - Autocomplete]]
 - [[5 - Quick Buttons]]
 
 These communication tools ALL rely on a CONTEXT that systematically includes:

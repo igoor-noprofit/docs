@@ -1,4 +1,4 @@
-![[../assets/accueil.png]]
+![[../assets/home_tab.png]]
 
 When you click the Settings button (top‑right), the Home tab gives quick access to the configuration of several core extensions:
 
@@ -8,4 +8,4 @@ When you click the Settings button (top‑right), the Home tab gives quick acces
 - The various text‑to‑speech extensions
 - Other extensions in the future, once activated.
 
-You can also view this documentation, or give us feedback via an online form (🙏🏼 for your feedback).
+You can also access this documentation, or give us feedback via an online form (🙏🏼 for your feedback).

@@ -16,7 +16,7 @@ Un exemple :
 
 > **Julie** vit avec une Sclérose Latérale Amyotrophique (SLA) qui a entraîné une diminution progressive de son autonomie motrice. Elle présente aujourd'hui une perte de mobilité importante des membres inférieurs, ce qui nécessite l'usage permanent d'un fauteuil roulant électrique pour tous ses déplacements. Ses membres supérieurs sont également impactés, limitant sa force et sa précision dans les gestes quotidiens. Elle éprouve une fatigue musculaire rapide et a besoin d'assistance pour les transferts et certains actes de la vie courante.
 > 
-> Elle bénéficie d'un accompagnement pluridisciplinaire régulier, comprenant une kinésithérapeute (une séance par semaine), une sophrologue, une infirmière psy et un ostéopathe, qui constituent un réseau de soutien indispensable.
+> Julie bénéficie d'un accompagnement pluridisciplinaire régulier, comprenant une kinésithérapeute (une séance par semaine), une sophrologue, une infirmière psy et un ostéopathe, qui constituent un réseau de soutien indispensable.
 > 
 
 ### Le style
