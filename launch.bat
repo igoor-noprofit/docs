@@ -39,14 +39,14 @@ if errorlevel 1 (
 )
 echo.
 
-REM Start development server (English by default)
+REM Start development server (French by default)
 echo ========================================
 echo Starting development server...
 echo ========================================
-echo To serve French instead, run: mkdocs serve -f config/fr/mkdocs.yml
+echo To serve English instead, run: mkdocs serve -f config/en/mkdocs.yml
 echo.
 start "" chrome http://127.0.0.1:8000/
 start /B python watch_docs.py
-mkdocs serve -f config/en/mkdocs.yml
+mkdocs serve -f config/fr/mkdocs.yml
 
 pause

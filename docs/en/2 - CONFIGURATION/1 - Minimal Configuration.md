@@ -10,8 +10,6 @@ You must save all required fields (name, health state, Groq api key).
 
 **The health status is a crucial field because it systematically constrains the predictions provided by the AI based on the user's physical capabilities.** If these capabilities change significantly, it is a good idea to update them even if IGOOR's memory might already contain this information.
 
-<video src="https://igoor.org/wp-content/uploads/2025/09/IGOOR-mettre-a-jour-etat-de-sante.mp4" controls></video>
-
 An example:
 
 > Julie lives with Amyotrophic Lateral Sclerosis (ALS), which has led to a progressive decline in her physical autonomy. Today, she experiences a significant loss of mobility in her lower limbs, necessitating the permanent use of an electric wheelchair for all movement. Her upper limbs are also affected, limiting her strength and precision during daily tasks. She experiences rapid muscle fatigue and requires assistance with transfers and certain activities of daily living.

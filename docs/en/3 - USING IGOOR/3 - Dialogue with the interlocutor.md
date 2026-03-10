@@ -1,12 +1,18 @@
 Voice recognition (or ASR, automatic speech recognition) now allows you to **include the interlocutor** in the dialogue process with the user, rather than always waiting for the user to initiate communication.
 
-**IMPORTANT: voice recognition by default uses Groq's AI, but you can change your provider.**
+Voice recognition by default uses Groq's AI, but you can change your provider in :
 
-Currently, we use an external button to more easily trigger voice recognition. If you don't have an external button, click on the microphone icon in the IGOOR software to start voice recognition, and click again to stop it:
+Parameters > Home
+
+**IMPORTANT: Currently, we use an external button to more easily trigger voice recognition, to help the speaker start a conversation more easily, and the user to avoid clicking a button. It also reduces bugs in noisy environments like hospitals.**
+
+If you don't have an external button, click on the microphone icon in the IGOOR software to start voice recognition, and click again to stop it:
 
 ![ASR button](../assets/asr_button.png)
 
 The button triggers the transcription of the interlocutor's words.
+
+See also [[2 - External button for voice recognition]]
 
 ## THE AI TRANSCRIBES YOUR SENTENCE, "REASONS" AND GENERATES PHRASE PREDICTIONS
 

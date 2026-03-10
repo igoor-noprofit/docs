@@ -3,4 +3,4 @@ Par ex. :
 
 > Pour diner, Pierre a mangé une pizza
 
-Les mémoires à court terme sont effacées automatiquement après 2 semaines.
+Les mémoires à court terme sont effacées automatiquement après 3 semaines.

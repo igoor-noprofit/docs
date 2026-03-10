@@ -3,4 +3,4 @@ For example:
 
 "Pierre ate a pizza for dinner"
 
-Short-term memories are automatically deleted after 2 weeks.
+Short-term memories are automatically deleted after 3 weeks.

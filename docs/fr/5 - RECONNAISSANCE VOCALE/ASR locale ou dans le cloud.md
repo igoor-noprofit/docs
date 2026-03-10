@@ -14,8 +14,10 @@ Si vous optez pour Mistral, vous devez donc créer un compte sur le AI Studio de
 
 Une fois que vous obtenez une clé API, allez dans :
 
-Paramètres > Extensions > ASR JAVASCRIPT
 
+
+Paramètres > Extensions > ASR JAVASCRIPT
+![[voxtral_api_key.png]]
 Et cliquez sur l'icône des paramètres de l'extension Whisper.
 
 Choisissez Mistral au lieu de Groq comme fournisseur, et insérez votre clé API. 

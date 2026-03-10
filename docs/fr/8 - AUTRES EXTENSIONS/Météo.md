@@ -1,17 +1,20 @@
 Cette extension rajoute des informations contextuelles sur la météo (température, vent etc.) au contexte, c.-à-d.. l'ensemble des informations qui sont envoyées à l'IA pour générer des prédictions (cf. [[1 - Quatre outils d’aide à la  communication]]).
 
-<div style="background:red;color:#fff">
+<div style="background:red;color:#fff; padding: 10px">
 ATTENTION: pour pouvoir fonctionner, le service nécessite de récuperer votre position actuelle tous les 10 minutes, basée sur l'adresse IP de votre connexion Internet. La précision de la position est variable.
 </div>
 
 ## Activation de l'extension
 
-Allez dans Paramètres > Extensions > Contexte > Weather :
+Allez dans
+
+Paramètres > Extensions > Contexte > Weather :
 
 ![[../assets/weather_activate.png]]
 
-et activez le switch. 
-**IMPORTANT : Vous devez redémarrer IGOOR quand vous activez (ou désactivez) des extensions.**
+et activez l'extension à travers le switch. 
+
+**RAPPEL : Vous devez redémarrer IGOOR quand vous activez (ou désactivez) des extensions.**
 
 ## Configuration de l'extension
 
