@@ -38,7 +38,7 @@ The software starts the installation:
 
 
 ![ready to install](../assets/extracting_files.png)
-At the end of the installation, you can directly start IGOOR.
+At the end of the installation, you can directly run IGOOR.
 
 ## Common installation troubleshooting
 

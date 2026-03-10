@@ -38,10 +38,10 @@ Les prédictions devraient inclure dans ce cas quelque chose comme :
 
 Dans Paramètres > Accueil, cliquez sur Gestion des documents :
 
-![[DOCS/en/assets/upload_documents.png]]
+![[../assets/upload_documents.png]]
 
 
-![[DOCS/fr/assets/doc.png]]
+![[../assets/doc.png]]
 
 Vous verrez une liste des documents actuellement téléversés à gauche ; à droite, un espace dans lequel vous pouvez glisser / déposer vos documents pour intégration. Vous pouvez glisser / déposer plusieurs documents à la fois.
 Avec le bouton "PARCOURIR LES FICHIERS", vous pouvez choisir des fichiers depuis un sélecteur Windows à intégrer à la base de données. 

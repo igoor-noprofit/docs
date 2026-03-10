@@ -8,19 +8,18 @@ Actuellement, sur le logiciel IGOOR, **la meilleure qualité de transcription**,
 
 Si vous optez pour Mistral, vous devez donc créer un compte sur le AI Studio de Mistral : 
 
-![[../assets/voxtral_api_key.png]]
-
 [S'abonner à Mistral et créer une clé API](https://docs.mistral.ai/getting-started/quickstart)
 
 Une fois que vous obtenez une clé API, allez dans :
 
+Paramètres > Accueil > Reconnaissance Vocale > Configure la reconnaissance vocale
+
+![[../assets/reconnaissance_vocale.png]]
 
 
-Paramètres > Extensions > ASR JAVASCRIPT
-![[voxtral_api_key.png]]
-Et cliquez sur l'icône des paramètres de l'extension Whisper.
+Dans la page qui s'ouvre, choisissez Mistral au lieu de Groq comme fournisseur, et insérez votre clé API. 
 
-Choisissez Mistral au lieu de Groq comme fournisseur, et insérez votre clé API. 
+![[../assets/voxtral_api_key.png]]
 
 ### Whisper
 
@@ -34,7 +33,9 @@ En alternative, dans les paramètres de l'extension Whisper, vous pouvez choisir
 
 - moins cher
 - plus rapide
-- moins précis.
+- Légèrement moins précis. 
+
+**C'est le modèle par défaut d'IGOOR.**
 
 ![[../assets/arsjs_config.png]]
 

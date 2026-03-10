@@ -31,8 +31,8 @@ Suivre cette procédure sur Windows :
 
 Allez dans : 
 
-Démarrer  > Paramètres  > Système > Affichage  
+**Démarrer  > Paramètres  > Système > Affichage**  
 
-Faites défiler jusqu’à la section Échelle & disposition.
+Faites défiler jusqu’à la section **Échelle & disposition**.
 
 Si le pourcentage est supérieur à 100%-150%, en le mettant à 100% (et en relançant IGOOR) l'affichage devrait se corriger.
