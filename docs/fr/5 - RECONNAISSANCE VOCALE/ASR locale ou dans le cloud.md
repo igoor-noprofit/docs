@@ -23,7 +23,7 @@ Dans la page qui s'ouvre, choisissez Mistral au lieu de Groq comme fournisseur, 
 
 ### Whisper
 
-**La deuxième meilleure option supportée par IGOOR est Whisper-large-v3-turbo, fourni par Groq. C'est le modèle par défaut d'IGOOR parce que :****
+**La deuxième meilleure option supportée par IGOOR est Whisper-large-v3-turbo, fourni par Groq. C'est le modèle par défaut d'IGOOR parce que :**
 
 - Déjà intégrée à l'offre de Groq à travers son API ;
 - ce modèle est le standard de facto pour la reconnaissance vocale, il est amplement utilisé ; partout dans le monde et supporte une large quantité de langues avec une qualité suffisante ;
