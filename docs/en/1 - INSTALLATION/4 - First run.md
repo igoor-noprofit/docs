@@ -8,6 +8,6 @@ A progress bar will appear right next to the settings button:
 
 Clicking on the bar opens a popup showing the names of extensions that are not ready for use. Find the extension configurations on the settings home page or in Extensions.
 
-Also, if you enable some extensions (e.g., Elevenlabs or Speechify) and do not configure them, the bar will never reach 100%.
+Also, if you enable some extensions (e.g., Elevenlabs or Speechify) and never configure them with a working API key, the bar will never reach 100%.
 
 **This indicator does not prevent using IGOOR, but usually means not all features will be available.**

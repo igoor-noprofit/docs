@@ -38,19 +38,8 @@ The software starts the installation:
 
 
 ![ready to install](../assets/extracting_files.png)
-At the end of the installation, you can directly run IGOOR.
+At the end of the installation, you can directly run IGOOR by clicking on its shortcut on the desktop (if you created it) or from the programs menu.
 
-## Common installation troubleshooting
+Continue to your [[4 - First run]]
 
-1. IGOOR is not registered with Microsoft as a software publisher. SmartScreen may therefore prevent you from starting the installation process at all and display this popup:
-
-![Smart screen](../assets/smartscreen.webp)
-
-
-**SOLUTION: Click on "More information" and then "Run anyway"**
-
-2. At the end of the installation process, launching the IGOOR application itself may fail due to a false positive detected by Windows or your antivirus. A popup opens and informs you that the application has been recognized as a virus.
-
-**SOLUTION: Run the software installation as administrator** by clicking on the application icon with the right button of the mouse and click on "Run as administrator" in the popup that opens. 
-
-![Smart screen](../assets/run_as_administrator.png)
+**IMPORTANT: If you're running into issues installing, check [[Troubleshooting common problems]]**

@@ -36,3 +36,8 @@ Allez dans :
 Faites défiler jusqu’à la section **Échelle & disposition**.
 
 Si le pourcentage est supérieur à 100%-150%, en le mettant à 100% (et en relançant IGOOR) l'affichage devrait se corriger.
+
+### Les prédictions n'apparaissent pas
+
+Avez-vous une clé de l'API de Groq payante ?
+Si ce n'est pas le cas, il y a une limitation de la fréquence et longueur des requêtes (par minute et par jour) qui peut impacter l'usage de l'application.

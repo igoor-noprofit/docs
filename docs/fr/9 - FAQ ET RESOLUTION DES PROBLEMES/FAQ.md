@@ -9,6 +9,8 @@ R: **IGOOR est un logiciel libre, open-source et gratuit**. Cependant, certaines
 **Q: De quoi ai-je besoin pour pouvoir faire fonctionner IGOOR ?**
 R: Aujourd'hui, le seul élément indispensable est une clé du fournisseur Groq. La clé pour tester le logiciel est gratuite.
 
+**Q:** **IGOOR nécessite-t-il une commande oculaire pour fonctionner ?** R: Non, vous pouvez utiliser IGOOR avec une souris ou en tactile.
+
 **Q: Où sont stockées mes données ?**
 **R: Vos données sont stockées sur votre ordinateur**. Cela inclut vos conversations, vos prédictions de mots et de phrases, vos documents etc.
 Cependant, pour pouvoir fournir du contexte à l'IA qui génère vos prédictions, elles doivent être envoyées au fournisseur d'IA. Vous pouvez avoir d'autres informations sur Groq, notre fournisseur de modèles IA par défaut, ici : [[2 - Préférences - IA]]
