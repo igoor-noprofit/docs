@@ -8,14 +8,15 @@ IGOOR supports 3 TTS (Text-to-speech) modes:
 
 Other providers may be supported in the future.
 
-| FEATURES / PLUGIN                          | TTSDEFAULT<br>   | SPEECHIFY<br>                                                | ELEVENLABS<br>                                                                                                       |
-| ------------------------------------------ | ---------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| works offline                              | ✅                | ❌                                                            | ❌                                                                                                                    |
-| price                                      | Free             | [pay-as-you-go pricing](https://speechify.com/pricing-api/) | [pay-as-you-go pricing](https://elevenlabs.io/)<br><br>Professional cloning requires a monthly pro subscription      |
-| amount of free minutes                     | Always free      | 100                                                          | 10                                                                                                                   |
-| professional voice cloning                 | ❌                | ❌                                                            | ✅                                                                                                                    |
-| voice quality                              | standard         | very good                                                    | very good, and excellent for professional cloning                                                                    |
-| intonation change within the same sentence | ❌                | ✅                                                            | ✅                                                                                                                    |
+| FEATURES / PLUGIN                          | TTSDEFAULT<br> | SPEECHIFY<br>                                               | ELEVENLABS<br>                                                                                                  |
+| ------------------------------------------ | -------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| works offline                              | ✅              | ❌                                                           | ❌                                                                                                               |
+| price                                      | Free           | [pay-as-you-go pricing](https://speechify.com/pricing-api/) | [pay-as-you-go pricing](https://elevenlabs.io/)<br><br>Professional cloning requires a monthly pro subscription |
+| amount of free minutes                     | Always free    | 100                                                         | 10                                                                                                              |
+| professional voice cloning                 | ❌              | ❌                                                           | ✅                                                                                                               |
+| voice quality                              | standard       | very good                                                   | very good, and excellent for professional cloning                                                               |
+| intonation change within the same sentence | ❌              | ✅                                                           | ✅                                                                                                               |
+| speed                                      | fastest        | slowest                                                     | very fast                                                                                                       |
 
 **IMPORTANT: The IGOOR 1901 association is not affiliated with Speechify or Elevenlabs.**
 

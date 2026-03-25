@@ -17,6 +17,7 @@ IGOOR supporte 3 modalités de TTS (Text-to-speech) :
 | clone de voix professionnel                | ❌                | ❌                                                            | ✅                                                                                                                    |
 | qualité de la voix                         | standard         | très bonne                                                   | très bonne, et excellente sur un clonage professionnel                                                               |
 | changement d'intonation sur la meme phrase | ❌                | ✅                                                            | ✅                                                                                                                    |
+| vitesse                                    | le plus rapide   | le plus lent                                                 | très rapide                                                                                                          |
 
 ### Conseils
 
