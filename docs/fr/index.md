@@ -3,7 +3,7 @@
 **IGOOR** **est une application conversationnelle** **gratuite, open-source et libre (licence AGPLv3)**, **basée sur l'intelligence artificielle**, pour fournir, aux personnes atteintes de maladies qui impactent la communication, un moyen de communication le plus fluide et naturel possible.
 **Son interface est compatible aussi avec un usage via la commande oculaire.** 
 
-**IGOOR** est développé par l'[association loi 1901 IGOOR](https://igoor.org){target=blank}, en partenariat avec l'association [ARSLA](https://arsla.org){target=blank}, [sur la base d'une idée d'Igor Novitzki.](https://vimeo.com/969643455){target=blank}.
+**IGOOR** est développé par l'[association loi 1901 IGOOR](https://igoor.org){target=blank}, en partenariat avec l'association [ARSLA](https://arsla.org){target=blank}, [sur la base d'une idée d'Igor Novitzki](https://vimeo.com/969643455){target=blank}.
 L'[**Hôpital Marin d'Hendaye**](https://www.aphp.fr/hopitaux/hendaye) est également **partenaire** pour organiser une phase d’évaluation de l’outil.
 
 <a href="https://www.arsla.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStg6Yf9MDzGR0UqlEYnPPQQTlqba8JUcHAFg&s)" width="250" alt="logo ARSLA"></a>
