@@ -7,8 +7,6 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStg6Yf9MDzGR0UqlEYnPPQQTlqba8JUcHAFg&s)" width="250" alt="logo ARSLA">
 
-The application is currently in testing phase at the [Hôpital Marin d'Hendaye](https://www.aphp.fr/hopitaux/hendaye){target=blank}, with people suffering from diseases such as ALS and LGS. IGOOR already takes into account the first feedbacks from its users.
-
 **If this software is important to you, you can make a donation to the IGOOR association to support its ongoing development here:**
 
 [Donate :gift:](https://igoor.org/en/donate/){ .md-button target=_blank}
