@@ -3,7 +3,7 @@
 **IGOOR** is a **free, open-source and copyleft (AGPLv3)** **conversational application, based on AI**, designed to provide people with diseases that affect communication a means of communication as smooth and natural as possible.
 **IGOOR's  interface is also compatible with eye-tracking devices.**
 
-**IGOOR** is developed by the no-profit [IGOOR association (1901 law)](https://igoor.org/en/){target=blank}, in partnership with the [ARSLA association](https://arsla.org){target=blank}. [The original idea for this application comes from Igor Novitzki, founder of the association.](https://vimeo.com/980377339){target=blank}.
+**IGOOR** is developed by the no-profit [IGOOR association (1901 law)](https://igoor.org/en/){target=blank}, in partnership with the [ARSLA association](https://arsla.org){target=blank}. [The original idea for this application comes from Igor Novitzki, founder of the association](https://vimeo.com/980377339){target=blank}.
 The <a href="https://www.aphp.fr/hopitaux/hendaye" target="_blank">Hôpital Marin d'Hendaye</a> is also partnering to support the evaluation phase of the tool.
 
 
