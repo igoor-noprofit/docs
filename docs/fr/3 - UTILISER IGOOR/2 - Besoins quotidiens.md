@@ -10,11 +10,11 @@ Par ex., en cliquant sur le gros bouton "chauffage" nous obtenons des prédictio
 
 À gauche, nous avons des phrases pour AUGMENTER la température du chauffage ; à droite (visuellement opposées) pour la RÉDUIRE. Au milieu, d'autres suggestions qui peuvent être plus neutres, ou sortir de cette opposition.  
 
-TOUTES les suggestions sont personnalisées sur la base du contexte, et générées sur le moment. Il ne s'agit donc pas de boutons avec des phrases déjà prévues, comme sur d'autres logiciels (ex. Grid3).
+**TOUTES les suggestions sont personnalisées sur la base du contexte, et générées sur le moment. Il ne s'agit donc pas de boutons avec des phrases déjà prévues, comme sur d'autres logiciels.** 
 
 ## Personnaliser les besoins quotidiens
 
-**Après installation de IGOOR, les besoins sont tirés d'une liste crées à travers les listes des patients. Il est important de la personnaliser très rapidement votre liste et de la mettre régulièrement à jour.**
+**Après installation de IGOOR, les besoins sont tirés d'une liste, créé à partir des listes des patients. Il est important de personnaliser très rapidement votre liste et de la mettre régulièrement à jour.**
 
 Suivre la vidéo suivante pour personnaliser les besoins quotidiens :
 

@@ -7,7 +7,7 @@ A: **IGOOR is free, open-source, and libre software**. However, certain features
 **IMPORTANT: IGOOR is affiliated with NONE of these providers**.
 
 **Q: Where are my memories stored?**
-**A: Your memories are stored on your computer**. However, to provide context to the AI generating your predictions, they must be sent to the AI provider. You can learn more about Groq, our default open-source AI provider, here: [[2 - Preferences - AI]]
+**A: Your memories are stored on your computer**. However, to provide context to the AI generating your predictions, they must be sent to the AI provider. You can learn more about Groq, our default open-source AI provider, here: [[2 - Preferences and AI settings]]
 
 **Q: Where is my cloned voice stored?**
 A: To clone your voice, cloud services like Speechify or Elevenlabs require you to send them audio samples (outside the IGOOR application). Only users with access to your account at these providers can generate phrases using your cloned voice. The API key granting access to these accounts is stored locally on your computer for IGOOR to use.

@@ -11,7 +11,7 @@ Merci de votre intérêt pour notre application. Veuillez noter que la version q
 
 - **Incompatibilités possibles avec des versions futures :** En raison de son statut expérimental, l'utilisation de cette application pourrait ne pas être complètement compatible avec les prochaines versions du logiciel IGOOR. 
 
-[Téléchargez la dernière version disponible d'IGOOR :material-download:](https://github.com/igoor-noprofit/igoor/releases/latest/download/IGOOR.exe){ .md-button target=_blank }
+[Téléchargez la dernière version disponible d'IGOOR :material-download:](https://bit.ly/4t7R78U){ .md-button target=_blank }
 
 sur votre ordinateur / tablette Windows. Passez a [[3 - Installer IGOOR]].
 

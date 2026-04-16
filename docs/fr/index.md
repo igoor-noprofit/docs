@@ -27,13 +27,12 @@ L'[**Hôpital Marin d'Hendaye**](https://www.aphp.fr/hopitaux/hendaye) est égal
 ## Ce qu'IGOOR n'est pas
 
 - Un logiciel de suivi oculaire ou un dispositif de suivi oculaire (mais IGOOR peut fonctionner avec des dispositifs de suivi oculaire, si vous les utilisez)
-- Un système intégré pour accéder à vos réseaux sociaux, messagerie téléphonique etc. 
-	- IGOOR est cependant compatible avec des logiciels comme Grid3
+- Un système intégré pour accéder à vos réseaux sociaux, messagerie téléphonique etc. (IGOOR est cependant compatible avec des logiciels comme Grid3)
 
 ## Licence
 
-**IGOOR** est développé par l'association loi 1901 IGOOR, d’après un concept d’Igor Novitzki. Le développeur principal est Carlo Giordano.
-L'UX/UI originale est de Piero Ciarfaglia (Zenoid).
+**IGOOR** est développé par l'[association loi 1901 IGOOR](https://igoor.org), d’après un concept d’Igor Novitzki. Le développeur principal est Carlo Giordano.
+L'UX/UI originale est de [Piero C.](https://zenoid.it)
 
 **IGOOR est distribué sous une licence AGPLv3**.
 

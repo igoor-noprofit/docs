@@ -29,8 +29,8 @@ The <a href="https://www.aphp.fr/hopitaux/hendaye" target="_blank">Hôpital Mari
 
 ## License
 
-**IGOOR** is developed by Carlo Giordano, based on a concept by Igor Novitzki.  
-The original UX/UI is by Piero Ciarfaglia (Zenoid).
+**IGOOR** is developed by [IGOOR not-for-profit](https://igoor.org/en/), based on a concept by Igor Novitzki. Lead developer is Carlo Giordano.  
+The original UX/UI is by [Piero C.](https://zenoid.it)
 
 **IGOOR is released under an AGPLv3 license.** 
 

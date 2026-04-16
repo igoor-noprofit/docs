@@ -5,7 +5,7 @@ Quand vous cliquez sur le bouton paramètres (en haut à droite), l'onglet Accue
 - [[2 - Besoins quotidiens]]
 - [[5 - Boutons rapides]]
 - [[2 - Mémoire extraite depuis vos documents]]
-- Les différentes extensions de synthèse vocale 
+- Les différentes extensions de synthèse vocale (cf. [[1 - Choisir votre système de synthèse vocale TTS]])
 - d'autres extensions à l'avenir, une fois activées.
 
-Vous pouvez également accéder à cette documentation, ou nous donner votre avis à travers un formulaire en ligne (🙏🏼pour votre retour).  
+Vous pouvez également accéder à cette documentation, ou nous donner votre avis à travers un formulaire en ligne (🙏🏼 pour votre retour).  

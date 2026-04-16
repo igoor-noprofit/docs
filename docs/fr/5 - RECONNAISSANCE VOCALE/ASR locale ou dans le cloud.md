@@ -19,21 +19,22 @@ Paramètres > Accueil > Reconnaissance Vocale > Configure la reconnaissance voca
 
 Dans la page qui s'ouvre, choisissez Mistral au lieu de Groq comme fournisseur, et insérez votre clé API. 
 
+
 ![[../assets/voxtral_api_key.png]]
 
 ### Whisper
 
 **La deuxième meilleure option supportée par IGOOR est Whisper-large-v3-turbo, fourni par Groq. C'est le modèle par défaut d'IGOOR parce que :**
 
-- Déjà intégrée à l'offre de Groq à travers son API ;
+- **Déjà intégrée à l'offre de Groq à travers son API** ;
 - ce modèle est le standard de facto pour la reconnaissance vocale, il est amplement utilisé ; partout dans le monde et supporte une large quantité de langues avec une qualité suffisante ;
 - le prix est très compétitif par rapport au marché ;
 - il est très rapide.
 
 En alternative, dans les paramètres de l'extension Whisper, vous pouvez choisir le modèle Whisper-Large-v3 qui est :
 
-- Légèrement plus cher
-- moins rapide
+- Légèrement plus cher ;
+- moins rapide ;
 - Légèrement plus précis. 
 
 
@@ -54,5 +55,3 @@ Rédemarrez IGOOR.
 **VOSK est réservé à l'usage en local, pour ceux qui ne souhaitent pas payer pour un service de reconnaissance vocale ou pour des raisons de confidentialité. Son support est limité et sera probablement remplacé par un autre modèle local plus performant.**
 
 **La reconnaissance vocale locale demande une quantité de mémoire vive (RAM) qui atteint les 3Go pour le modèle de grande taille. Vous pouvez changer la taille du modèle dans les paramètres du plugin Vosk si votre mémoire vive n'est pas suffisante.**
-
-

@@ -23,7 +23,9 @@ Pour info, il y a aussi **un mode Répété qui permet :**
 - **survoler sans cliquer** 
     
 - **masquer la trace du regard** 
-    
+
+## Solutions alternatives
+
 
 
 
