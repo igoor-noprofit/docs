@@ -185,3 +185,4 @@ cython_debug/
 
 # Deleted files - prevent re-adding
 docs/assets/copy_api_key.png
+.vscode/settings.json

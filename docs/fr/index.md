@@ -1,4 +1,4 @@
-<img src="https://igoor.org/wp-content/uploads/2024/08/logo_fb.png" width="450">
+<img src="https://igoor.org/img/igoor-logo.svg" width="450">
 
 **IGOOR** **est une application conversationnelle** **gratuite, open-source et libre (licence AGPLv3)**, **basée sur l'intelligence artificielle**, pour fournir, aux personnes atteintes de maladies qui impactent la communication, un moyen de communication le plus fluide et naturel possible.
 **Son interface est compatible aussi avec un usage via la commande oculaire.** 

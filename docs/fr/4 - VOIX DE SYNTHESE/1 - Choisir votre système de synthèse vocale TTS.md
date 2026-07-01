@@ -18,10 +18,11 @@ IGOOR supporte 3 modalités de TTS (Text-to-speech) :
 | qualité de la voix                         | standard         | très bonne                                                   | très bonne, et excellente sur un clonage professionnel                                                               |
 | changement d'intonation sur la meme phrase | ❌                | ✅                                                            | ✅                                                                                                                    |
 | vitesse                                    | le plus rapide   | le plus lent                                                 | très rapide                                                                                                          |
+|                                            |                  |                                                              |                                                                                                                      |
 
 ### Conseils
 
-- **Si l'utilisateur d'IGOOR est affecté par la SLA, l'association ARSLA peut disposer de licences gratuites pour Elevenlabs**. [Contacter l'association ARSLA](https://www.arsla.org/){target=blank}
+- **Si l'utilisateur d'IGOOR est affecté par la SLA, l'association ARSLA peut disposer de licences gratuites pour Elevenlabs**. [Contacter l'association ARSLA](https://www.arsla.org/){target=blank} ou [suivre la démarche du programme Impact offerte par Elevenlabs](https://elevenlabs.io/fr/blog/expanding-access-patients-and-clinicians-can-now-apply-directly-on-the-elevenlabs-website).
 - Si vous avez la possibilité de cloner la voix de l'utilisateur, nous vous conseillons de le faire :  **la voix originale de la personne (ou une voix plus expressive des voix Windows) contribuent à garder un lien émotionnel avec l'utilisateur.**  [[3 - Cloner la voix de l'utilisateur d'IGOOR]]
 - Seulement si vous n'avez pas la possibilité de cloner la voix de l'utilisateur, ou que vous souhaitez une voix gratuite, choisissez la [[2 - Voix de synthèse de Windows]]
 

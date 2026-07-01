@@ -29,6 +29,7 @@ Vous pouvez vous inscrire et récupérer votre clé API ici :
 
 [Obtenir une clé API gratuite Openweathermap](https://home.openweathermap.org/users/sign_up){target: blank}
 
+
 ![[../assets/weather_config.png]]
 
 Vous pouvez insérer l'adresse exacte de votre domicile. **Cette adresse n'est jamais communiquée à l'extérieur ; elle est utilisée à l'intérieur d'IGOOR pour la comparer avec celle mise à jour automatiquement, afin de comprendre si l'utilisateur est à la maison.**

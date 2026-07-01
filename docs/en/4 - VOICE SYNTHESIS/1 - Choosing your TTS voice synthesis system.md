@@ -22,7 +22,7 @@ Other providers may be supported in the future.
 
 ### Tips
 
-- **If the IGOOR user is affected by SLA, the ARSLA association has free licenses for Elevenlabs.** [Contact the ARSLA association](https://www.arsla.org/)
+- **If the IGOOR user is affected by SLA, the ARSLA association has free licenses for Elevenlabs.** [Contact the ARSLA association](https://www.arsla.org/) or [follow the procedure to apply for the Impact program directly on Elevenlabs website](https://elevenlabs.io/fr/blog/expanding-access-patients-and-clinicians-can-now-apply-directly-on-the-elevenlabs-website).
 - If you have the possibility of [[2 - Cloning the IGOOR User's Voice]], we recommend it.
 - Only if you cannot clone the user's voice, or if you want a free voice, choose TTSDEFAULT. **The user's original voice (or a more expressive Windows voice) helps maintain an emotional connection with the user.**
 

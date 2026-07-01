@@ -1,4 +1,4 @@
-<img src="https://igoor.org/wp-content/uploads/2024/08/logo_fb.png" width="450">
+<img src="https://igoor.org/img/igoor-logo.svg" width="450">
 
 **IGOOR** is a **free, open-source and copyleft (AGPLv3)** **conversational application, based on AI**, designed to provide people with diseases that affect communication a means of communication as smooth and natural as possible.
 **IGOOR's  interface is also compatible with eye-tracking devices.**

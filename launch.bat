@@ -1,4 +1,11 @@
 @echo off
+setlocal
+
+REM Paths resolved relative to this script (repo root) so the workflow works
+REM regardless of where the repo is checked out on disk.
+set "REPO=%~dp0"
+set "DOCS_DIR=%~dp0docs"
+set "VAULT=%~dp0..\IGOOR_VAULT\DOCS"
 
 REM Kill any existing mkdocs server processes to prevent cache issues
 echo ========================================
@@ -8,11 +15,11 @@ taskkill /F /IM python.exe /FI "WINDOWTITLE eq *mkdocs*" 2>nul
 taskkill /F /FI "IMAGENAME eq python.exe" /FI "WINDOWTITLE eq *watch_docs*" 2>nul
 timeout /t 2 /nobreak >nul
 
-if exist C:\TMP\IGOOR\docs\docs rmdir /s /q C:\TMP\IGOOR\docs\docs
-mkdir C:\TMP\IGOOR\docs\docs
-xcopy C:\TMP\IGOOR\OBSIDIAN\IGOOR_VAULT\DOCS C:\TMP\IGOOR\docs\docs /E /I /Y
+if exist "%DOCS_DIR%" rmdir /s /q "%DOCS_DIR%"
+mkdir "%DOCS_DIR%"
+xcopy "%VAULT%" "%DOCS_DIR%" /E /I /Y
 
-cd C:\TMP\IGOOR\docs
+cd /d "%REPO%"
 call venv\Scripts\activate
 
 REM Build English documentation
