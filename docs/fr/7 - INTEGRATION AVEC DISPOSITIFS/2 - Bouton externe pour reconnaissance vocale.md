@@ -28,6 +28,6 @@ Le bouton doit être relié à la tablette / ordinateur via un câble (USB-C USB
 
 Ces câbles se trouvent partout en commerce ; n'importe quel câble USB-C (des deux côtés) va le faire si vous en avez déjà à la maison, exemple :
 
-https://www.amazon.fr/Amazon-Basics-tablettes-ordinateurs-portables/dp/B01GGKZ2SC/?th=1
+[https://www.amazon.fr/Amazon-Basics-tablettes-ordinateurs-portables/dp/B01GGKZ2SC/?th=1](https://www.amazon.fr/Amazon-Basics-tablettes-ordinateurs-portables/dp/B01GGKZ2SC/?th=1)
 
 **IMPORTANT : IGOOR n'est pas affilié avec AliExpress ou Amazon. Ces liens sont donnés à titre indicatif.**
