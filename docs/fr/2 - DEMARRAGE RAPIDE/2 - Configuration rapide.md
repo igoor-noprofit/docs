@@ -1,6 +1,6 @@
-IGOOR est conçu pour permettre beaucoup de personnalisations.
+IGOOR est conçu pour permettre beaucoup de personnalisations. Si vous souhaitez aller en profondeur tout de suite, allez sur [[1 - Page accueil]].
 
-**Si vous voulez tester le plus rapidement possible IGOOR, configurez-le à travers une clé gratuite Groq :**
+**Si en revanche, vous souhaitez tester le plus rapidement possible IGOOR, configurez-le à travers une clé gratuite Groq :**
 
 Nous recommandons le fournisseur Groq pour les avantages suivants :
 

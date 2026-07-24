@@ -1,3 +1,5 @@
+Si vous avez déjà terminé la [[2 - Configuration rapide]], vous pouvez passer à explorer la page Accueil.
+
 ![[../assets/accueil.png]]
 
 Quand vous cliquez sur le bouton paramètres (en haut à droite), l'onglet *Accueil* permet d'accéder rapidement à la configuration de plusieurs extensions fondamentales : 
