@@ -19,7 +19,7 @@ The <a href="https://www.aphp.fr/hopitaux/hendaye" target="_blank">Hôpital Mari
 - An **experimental** communication software assisted by AI.
 - **A conversational application dedicated to in-person communication** as much as possible in real time
 
-> [Learn more about the philosophy behind the IGOOR software](https://igoor.org/igoor/){target=blank}
+> [Learn more about the philosophy behind the IGOOR software](https://igoor.org/app/){target=blank}
 
 ## What IGOOR is not
 

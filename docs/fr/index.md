@@ -1,6 +1,6 @@
 <img src="https://igoor.org/img/igoor-logo.svg" width="450">
 
-**IGOOR** **est une application conversationnelle** **gratuite, open-source et libre (licence AGPLv3)**, **basée sur l'intelligence artificielle**, pour fournir, aux personnes atteintes de maladies qui impactent la communication, un moyen de communication le plus fluide et naturel possible.
+**IGOOR** **est un logiciel de CAA gratuit, open-source et libre (licence AGPLv3)**, **basé sur l'intelligence artificielle**, pour fournir, aux personnes atteintes de maladies qui impactent la communication, un moyen de communication le plus fluide et naturel possible.
 **Son interface est compatible aussi avec un usage via la commande oculaire.** 
 
 **IGOOR** est développé par l'[association loi 1901 IGOOR](https://igoor.org){target=blank}, en partenariat avec l'association [ARSLA](https://arsla.org){target=blank}, [sur la base d'une idée d'Igor Novitzki](https://vimeo.com/969643455){target=blank}.
@@ -22,7 +22,7 @@ L'[**Hôpital Marin d'Hendaye**](https://www.aphp.fr/hopitaux/hendaye) est égal
 - Un logiciel **experimental** de communication assistée par l'I.A.
 - **Une application conversationnelle dédiée à la communication en présence** le plus possible en temps réel
 
-> [Pour en savoir plus sur la philosophie à la base du logiciel IGOOR](https://igoor.org/igoor/){target=blank}
+> [Pour en savoir plus sur la philosophie à la base du logiciel IGOOR](https://igoor.org/app/){target=blank}
 
 ## Ce qu'IGOOR n'est pas
 
