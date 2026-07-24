@@ -60,7 +60,7 @@ Si vous le souhaitez, vous pouvez activer un popup qui vous demande d'assigner, 
 
 **Nous vous conseillons plutôt d'utiliser ce popup à la fin, pour que l'utilisateur n'ait pas à s'occuper aussi de ça pendant la conversation**. Le popup disparait automatiquement en 15 secondes.
 
-![[Pasted image 20260724220751.png]]
+![[../assets/speakers_popup.png]]
 
 
 
