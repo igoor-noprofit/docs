@@ -46,11 +46,24 @@ if errorlevel 1 (
 )
 echo.
 
+REM Build Italian documentation
+echo ========================================
+echo Building Italian documentation...
+echo ========================================
+mkdocs build -f config/it/mkdocs.yml
+if errorlevel 1 (
+    echo ERROR: Failed to build Italian documentation
+    pause
+    exit /b 1
+)
+echo.
+
 REM Start development server (French by default)
 echo ========================================
 echo Starting development server...
 echo ========================================
 echo To serve English instead, run: mkdocs serve -f config/en/mkdocs.yml
+echo To serve Italian instead, run: mkdocs serve -f config/it/mkdocs.yml
 echo.
 start "" chrome http://127.0.0.1:8000/
 start /B python watch_docs.py

@@ -34,13 +34,26 @@ if errorlevel 1 (
 )
 echo.
 
+REM Build Italian documentation
+echo ========================================
+echo Building Italian documentation...
+echo ========================================
+mkdocs build -f config/it/mkdocs.yml
+if errorlevel 1 (
+    echo ERROR: Failed to build Italian documentation
+    pause
+    exit /b 1
+)
+echo.
+
 echo ========================================
 echo Build complete!
 echo ========================================
 echo.
 echo To test locally:
-echo   - English: mkdocs serve -f config/en/mkdocs.yml
-echo   - French:  mkdocs serve -f config/fr/mkdocs.yml
+echo   - English:  mkdocs serve -f config/en/mkdocs.yml
+echo   - French:   mkdocs serve -f config/fr/mkdocs.yml
+echo   - Italian:  mkdocs serve -f config/it/mkdocs.yml
 echo.
 
 pause
