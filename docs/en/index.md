@@ -1,48 +1,49 @@
+<div style="background:#666;color:#fff; padding: 10px"><strong>Note:</strong> this documentation was translated automatically by AI. The <a style="color:#fff" href="https://igoor-noprofit.github.io/docs/fr/" target="_blank">French version</a> is the source of reference; if in doubt, please consult it.</div>
+
 <img src="https://igoor.org/img/igoor-logo.svg" width="450">
 
-<div style="background:red;color:#fff; padding: 10px">
-We are updating this documentation to reflect the new IGOOR v1 version. In the meantime, check the French documentation.
-</div>
+**IGOOR** **is a free, open-source AAC software (AGPLv3 license)**, **based on artificial intelligence**, to provide people affected by diseases that impact communication with the smoothest, most natural means of communication possible.
+**Its interface is also compatible with use via eye control.** 
 
-**IGOOR** is a **free, open-source and copyleft (AGPLv3)** **conversational application, based on AI**, designed to provide people with diseases that affect communication a means of communication as smooth and natural as possible.
-**IGOOR's  interface is also compatible with eye-tracking devices.**
+**IGOOR** is developed by the [IGOOR non-profit association (loi 1901)](https://igoor.org){target=blank}, in partnership with the [ARSLA](https://arsla.org){target=blank} association, [based on an idea by Igor Novitzki](https://vimeo.com/969643455){target=blank}.
+The [**Hôpital Marin d'Hendaye**](https://www.aphp.fr/hopitaux/hendaye) is also a **partner** for organizing an evaluation phase of the tool.
 
-**IGOOR** is developed by the no-profit [IGOOR association (1901 law)](https://igoor.org/en/){target=blank}, in partnership with the [ARSLA association](https://arsla.org){target=blank}. [The original idea for this application comes from Igor Novitzki, founder of the association](https://vimeo.com/980377339){target=blank}.
-The <a href="https://www.aphp.fr/hopitaux/hendaye" target="_blank">Hôpital Marin d'Hendaye</a> is also partnering to support the evaluation phase of the tool.
+<a href="https://www.arsla.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStg6Yf9MDzGR0UqlEYnPPQQTlqba8JUcHAFg&s)" width="250" alt="ARSLA logo"></a>
 
+## History 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStg6Yf9MDzGR0UqlEYnPPQQTlqba8JUcHAFg&s)" width="250" alt="logo ARSLA">
+**The original idea for this application comes from Igor Novitzki, founder of the IGOOR association, who first made it public <a href="https://vimeo.com/969643455?fl=pl&fe=vl" target="_blank">in this video on Vimeo (June 2024)</a>.** **The video also showed our validation prototype.**
 
-**If this software is important to you, you can make a donation to the IGOOR association to support its ongoing development here:**
+**If this software is important to you, you can make a donation to the IGOOR association to support its continued development here:**
 
-[Donate :gift:](https://igoor.org/en/donate/){ .md-button target=_blank}
+[Make a donation :gift:](https://igoor.org/faire-un-don/){ .md-button target=_blank}
 
 
 ## What is IGOOR 
 
-- An **experimental** communication software assisted by AI.
-- **A conversational application dedicated to in-person communication** as much as possible in real time
+- An **experimental** AI-assisted communication software.
+- **A conversational application dedicated to in-person communication**, as real-time as possible
 
 > [Learn more about the philosophy behind the IGOOR software](https://igoor.org/app/){target=blank}
 
 ## What IGOOR is not
 
-- An eye-tracking software or an eye-tracking device (but IGOOR can work with eye-tracking devices, if you use them)
-- An integrated system to access your social networks, phone messaging, etc.
-	- IGOOR is, however, compatible with software such as Grid3
+- An eye-tracking software or eye-tracking device (but IGOOR can work with eye-tracking devices, if you use them)
+- An integrated system to access your social networks, phone messaging, etc. (IGOOR is however compatible with software like Grid3)
 
 ## License
 
-**IGOOR** is developed by [IGOOR not-for-profit](https://igoor.org/en/), based on a concept by Igor Novitzki. Lead developer is Carlo Giordano.  
+**IGOOR** is developed by the [IGOOR non-profit association](https://igoor.org), based on a concept by Igor Novitzki. The main developer is Carlo Giordano.
 The original UX/UI is by [Piero C.](https://zenoid.it)
 
-**IGOOR is released under an AGPLv3 license.** 
+**IGOOR is distributed under an AGPLv3 license**.
 
-[Check our code on **Github**](https://github.com/igoor-noprofit/igoor)
+[Access the code on **Github**](https://github.com/igoor-noprofit/igoor)
+
 ____
 *This application uses Microsoft Edge WebView2 Runtime.*  
-*© Microsoft Corporation. Distributed under Microsoft terms and conditions.*
+*© Microsoft Corporation. Distributed under license according to Microsoft's terms.*
 
-*This application uses FFmpeg, © FFmpeg developers.  
+_This application uses FFmpeg, © FFmpeg developers.  
 Distributed under GPL v3 license.  
-Windows build by Gyan.dev*
+Windows build by Gyan.dev_

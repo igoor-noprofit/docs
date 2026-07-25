@@ -1,28 +1,40 @@
 
+![[../assets/shortcuts_new.png]]
 
-These buttons are ALWAYS PRESENT on the screen, at the bottom of the app page. Once clicked, they directly speak a sentence or a sound, without requiring additional clicks.
+These buttons are ALWAYS PRESENT on the screen, at the bottom of the application page.
 
-**The spoken sentences are NOT integrated into the ongoing conversation**: the goal is also to address very urgent needs without cluttering the current conversation.
+The leftmost button quickly minimizes the IGOOR window, to switch to another software.
 
-The SPEECH button allows the user to communicate to the interlocutor that they are in the process of responding and therefore still need a little more time.
+The other buttons, once activated, directly speak a phrase or a sound, with no need for additional clicks.
 
-When the user is on the settings, the buttons automatically reduce their size to make more room for the settings interface.
+**The spoken phrases are NOT integrated into the ongoing conversation**: the goal is also to meet very urgent needs without polluting the ongoing conversation.
 
-## Configuring the SOS Button
+The WAIT button communicates to the interlocutor that the user is currently writing a response to them and therefore still needs a little more time.
 
-The red SOS button is used to alert family members or caregivers that an emergency is occurring.
+The REPEAT button asks the interlocutor to repeat their question, because the AI did not correctly transcribe their sentence.
 
-By default, the SOS button says “Help me, it’s urgent!”. It can also be set to emit an alert tone instead.
+When the user is in the settings, the buttons automatically reduce their size to leave more room for the settings interface.
 
-**How to change the behavior**
 
-1. Open **Settings → Extensions → Predictions**.
-2. Click the **gear icon** next to the **Shortcuts** extension.
-3. Choose between **voice** or **alert sound** for the SOS button.
+## Customizing quick buttons
 
-You can also set:
+**From IGOOR v1 onwards, you can choose which buttons to display (or not) in the interface.** If you never use, for example, the "Drink" button, you can safely remove it. Fewer buttons means buttons that are easier to find and click.
 
-- **Number of repetitions** – `0` means the message repeats indefinitely.
-- **Interval between repetitions** – the seconds of pause between each voice or sound alert.
+### SOS button configuration
 
-> **NOTE: If the alert sound keeps playing, you must either tap any quick‑response button again, start a new conversation, or end the current conversation to stop it.**
+The red SOS button is used to alert family or caregivers that there is an emergency.
+
+The button can be configured either to speak the phrase "Help me, it's urgent!" (this is its default behavior), or to emit an alert sound.
+
+To configure it, go to:
+
+*Settings > Extensions > Predictions*
+![[bouton-aide.png]]
+And click on the settings of the Shortcuts extension.
+Here, you will be able to choose between speech or the alert sound.
+
+![[../assets/bouton-aide.png]]
+
+You can also choose the number of repetitions (0 = infinite, until manual stop), and the interval between each sound.
+
+**IMPORTANT: If the sound persists, you must either click again on any quick button, or start a new conversation, or end an ongoing conversation.**

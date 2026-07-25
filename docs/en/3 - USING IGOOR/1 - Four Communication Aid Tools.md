@@ -1,15 +1,19 @@
-IGOOR provides four tools to help the person affected by a communication disorder (the USER) to better communicate with their surroundings (the INTERLOCUTORS):
 
-- [[2 - Daily Needs]]
-- [[3 - Dialogue with the Interlocutor]]
+IGOOR provides four tools to help the person affected by a condition that affects communication (the **USER**) better converse with those around them (the **INTERLOCUTORS**):
+
+- [[2 - Dialogue with the interlocutor]]
+- [[3 - Daily needs]]
 - [[4 - Autocomplete]]
-- [[5 - Quick Buttons]]
+- [[5 - Quick buttons]]
 
-These communication tools ALL rely on a CONTEXT that systematically includes:
+## Context
+
+ALL these communication means rely on a CONTEXT that systematically includes:
 
 - The **ONGOING CONVERSATION**
-- **The time**, the location, and the weather (if the weather extension is enabled)
-- **The patient's health condition**
-- **Information about the patient's life provided by the patient themselves**
-- **Information learned by the machine** as it is used, stored in its **SHORT-TERM MEMORY** (lasting 2 weeks) **and/or LONG-TERM MEMORY**
-- A short definition of the **patient's style** to guide the AI's writing (**SETTINGS > BIO**)
+- **The time of day**
+- **The patient's state of health**
+- **Information provided by the patient themselves during the [[2 - Recording the biographical memory]]** or subsequently sent through documents
+- **Information learned by the machine** as it is used, stored in its **SHORT-TERM memory** (which lasts 2 weeks) **and/or LONG-TERM** memory
+- A short definition of the patient's **style** (optional) to guide the AI's writing  (*Settings > Home > Bio*)
+- The weather (if the weather extension is enabled: see [[1 - Weather]])
