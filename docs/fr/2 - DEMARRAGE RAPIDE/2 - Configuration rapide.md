@@ -11,7 +11,7 @@ Nous recommandons le fournisseur Groq pour les avantages suivants :
 - Vous pouvez utiliser leur **offre gratuite sans besoin d'insérer vos données de paiement**, et ce sans limites de temps  
 - Si vous décidez de passer à la version payante, Groq propose [un modèle de prix extremement concurrentiel](https://groq.com/pricing )
 
-**IMPORTANT : Nous ne sommes ni partenaires ni affiliés de Groq. À partir de la version 1, IGOOR supporte d'autres fournisseurs IA cloud ([[#Tester IGOOR gratuitement avec Mistral]] et [[#Tester IGOOR avec Cerebras]]) ainsi que votre IA locale.**
+**IMPORTANT : Nous ne sommes ni partenaires ni affiliés de Groq. À partir de la version 1, IGOOR supporte d'autres fournisseurs IA cloud ([[4 - Préférences - IA]]) ainsi que votre IA locale.**
 
 ### Utiliser IGOOR gratuitement avec Groq
 
